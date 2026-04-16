@@ -1,0 +1,56 @@
+{
+  "monitoring_config": {
+    "enabled": true,
+    "check_interval_minutes": 30,
+    "alerts": {
+      "mapping_inconsistencies": true,
+      "product_not_found": true,
+      "sync_failures": true,
+      "performance_degradation": true
+    },
+    "thresholds": {
+      "max_sync_time_ms": 60000,
+      "max_error_rate_percent": 5,
+      "min_success_rate_percent": 95
+    }
+  },
+  "health_checks": [
+    {
+      "name": "mapping_file_integrity",
+      "description": "Verifica se o arquivo de mapeamento está íntegro",
+      "frequency": "every_hour"
+    },
+    {
+      "name": "shopify_api_connectivity",
+      "description": "Testa conectividade com API Shopify",
+      "frequency": "every_15_minutes"
+    },
+    {
+      "name": "product_count_consistency",
+      "description": "Verifica consistência entre produtos mapeados e unified",
+      "frequency": "daily"
+    }
+  ],
+  "notification_channels": {
+    "email": {
+      "enabled": false,
+      "recipients": [
+        "admin@example.com"
+      ],
+      "smtp_config": {
+        "host": "smtp.example.com",
+        "port": 587,
+        "secure": false
+      }
+    },
+    "slack": {
+      "enabled": false,
+      "webhook_url": "https://hooks.slack.com/services/...",
+      "channel": "#product-sync"
+    },
+    "console": {
+      "enabled": true,
+      "log_level": "info"
+    }
+  }
+}

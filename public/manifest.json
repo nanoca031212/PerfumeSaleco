@@ -1,0 +1,23 @@
+{
+  "name": "Perfumes UK - Premium Fragrance Collections",
+  "short_name": "Perfumes UK",
+  "description": "Premium fragrance collections from luxury brands. All combos £49.90 with fast UK delivery.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#ee7d1b",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ],
+  "categories": ["shopping", "lifestyle"],
+  "lang": "en-GB",
+  "dir": "ltr",
+  "scope": "/",
+  "prefer_related_applications": false
+}

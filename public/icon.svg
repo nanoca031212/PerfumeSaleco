@@ -1,0 +1,30 @@
+<svg width="192" height="192" viewBox="0 0 192 192" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background circle -->
+  <circle cx="96" cy="96" r="96" fill="#ee7d1b"/>
+  
+  <!-- Perfume bottle shape -->
+  <g transform="translate(96, 96)">
+    <!-- Bottle cap -->
+    <rect x="-12" y="-60" width="24" height="8" rx="2" fill="#ffffff"/>
+    
+    <!-- Bottle neck -->
+    <rect x="-8" y="-52" width="16" height="16" fill="#ffffff"/>
+    
+    <!-- Main bottle body -->
+    <path d="M-20 -36 L-20 20 Q-20 28 -12 28 L12 28 Q20 28 20 20 L20 -36 Q20 -44 12 -44 L-12 -44 Q-20 -44 -20 -36 Z" fill="#ffffff"/>
+    
+    <!-- Perfume liquid -->
+    <path d="M-16 -32 L-16 16 Q-16 24 -8 24 L8 24 Q16 24 16 16 L16 -32 Q16 -40 8 -40 L-8 -40 Q-16 -40 -16 -32 Z" fill="#ee7d1b" opacity="0.3"/>
+    
+    <!-- Spray nozzle -->
+    <circle cx="0" cy="-48" r="3" fill="#ffffff"/>
+    
+    <!-- Decorative elements -->
+    <circle cx="-8" cy="-20" r="2" fill="#ee7d1b" opacity="0.6"/>
+    <circle cx="8" cy="-8" r="2" fill="#ee7d1b" opacity="0.6"/>
+    <circle cx="0" cy="4" r="2" fill="#ee7d1b" opacity="0.6"/>
+  </g>
+  
+  <!-- Brand text -->
+  <text x="96" y="160" text-anchor="middle" fill="#ffffff" font-family="Arial, sans-serif" font-size="14" font-weight="bold">PERFUMES UK</text>
+</svg>

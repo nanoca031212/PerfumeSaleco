@@ -1,0 +1,4431 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "handle": "3-piece-premium-fragrance-collection-set-28",
+      "title": "3-Piece Fragrance Set: 1 Million Perfume, Sauvage Dior & Invictus Paco Rabanne",
+      "description": "Buy 3-Piece Fragrance Set: 1 Million Perfume, Sauvage Dior & Invictus Paco Rabanne - Dior and Paco Rabanne. premium men-fragrances in this 3-for-1 offer with fast delivery in the UK. Authentic perfumes IE the best price.",
+      "description_html": "<div class=\"product-description\">\n                <h3>Premium Fragrance Collection</h3>\n                <p>An exceptional combination of three iconic fragrances at an unprecedented value. This set features premium fragrances from Dior, Paco Rabanne.</p>\n                <p class=\"mt-4\">Regular Value: £170.00<br>Special Offer: £49.99<br>Total Savings: £120.01 (71% OFF)</p>\n                <p class=\"mt-4\">Each fragrance in this set is a full-size, authentic product, carefully selected to complement each other. Perfect for those who appreciate variety in their fragrance collection or as a luxurious gift.</p>\n            </div>",
+      "sku": "FRAG-0001-183239",
+      "price": {
+        "regular": 49.99,
+        "sale": null,
+        "on_sale": false,
+        "discount_percent": 0,
+        "currency": "GBP"
+      },
+      "category": "Fragrance Sets",
+      "brands": [
+        "Dior",
+        "Paco Rabanne"
+      ],
+      "primary_brand": "Dior",
+      "tags": [
+        "perfume",
+        "men-fragrances",
+        "uk",
+        "gift",
+        "authentic",
+        "premium",
+        "men",
+        "bestseller",
+        "offers",
+        "Dior",
+        "fragrance-set",
+        "gift-set",
+        "paco-rabanne",
+        "collection"
+      ],
+      "images": [
+        "/productNbg/3-piece-fragrance-set-1-million-parfum-sauvage-dior-invictus-paco-rabanne.png"
+      ],
+      "is_combo": true,
+      "featured": false,
+      "popularity": 0,
+      "created_at": "2025-09-19T18:32:39.516872",
+      "updated_at": "2025-09-19T18:32:39.516877",
+      "status": "active",
+      "seo": {
+        "title": "3-Piece Fragrance Set: 1 Million Parfum, Sauvage Dior & Invictus Paco Rabanne | premium Fragrances UK",
+        "description": "Buy 3-Piece Fragrance Set: 1 Million Parfum, Sauvage Dior & Invictus Paco Rabanne - Dior und Paco Rabanne. premium men-fragrances in this 3-for-1 offer with fast delivery in the UK. Authentic perfumes IE the best price.",
+        "keywords": [
+          "perfume",
+          "men-fragrances",
+          "uk",
+          "gift",
+          "authentic",
+          "premium",
+          "men",
+          "bestseller",
+          "offers",
+          "dior",
+          "fragrance-set",
+          "gift-set",
+          "paco-rabanne",
+          "collection"
+        ]
+      },
+      "slug": "3-piece-premium-fragrance-collection-set-28",
+      "categories": [
+        "Fragrance Sets"
+      ],
+      "_translation_metadata": {
+        "translated_from": "de",
+        "translated_to": "en",
+        "currency_converted_from": "EUR",
+        "currency_converted_to": "GBP",
+        "conversion_rate": 0.85,
+        "translated_at": "2025-09-19 19:13:09"
+      },
+      "shopify_mapping": {
+        "2": {
+          "product_id": 10187399001085,
+          "variant_id": 10187399001085,
+          "handle": "3-piece-premium-fragrance-collection-set-28",
+          "domain": "sn.theperfumeuk.shop",
+          "store_name": "SOLO NECESSITO (Store 2)",
+          "sku": "FRAG-0001-183239",
+          "title": "3-Piece Fragrance Set: 1 Million Perfume, Sauvage Dior & Invictus Paco Rabanne",
+          "price": 49.99,
+          "currency": "GBP"
+        },
+        "3": {
+          "product_id": 10252766544159,
+          "handle": "3-piece-premium-fragrance-collection-set-28",
+          "domain": "ae888e.myshopify.com",
+          "store_name": "SADERSTORE (Store 3)",
+          "sku": "FRAG-0001-183239"
+        }
+      }
+    },
+    {
+      "id": "2",
+      "handle": "3-piece-premium-fragrance-collection-set-29",
+      "title": "3-Piece Fragrance Set: 212 VIP Rose, Olympea & Coco Mademoiselle",
+      "description": "Buy 3-Piece Fragrance Set: 212 VIP Rose, Olympea & Coco Mademoiselle - Chanel, Paco Rabanne and Carolina Herrera. premium men-fragrances in this 3-for-1 offer with fast delivery in the UK. Authentic perfumes IE the best price.",
+      "description_html": "<div class=\"product-description\">\n                <h3>Premium Fragrance Collection</h3>\n                <p>An exceptional combination of three iconic fragrances at an unprecedented value. This set features premium fragrances from Chanel, Paco Rabanne, Carolina Herrera.</p>\n                <p class=\"mt-4\">Regular Value: £170.00<br>Special Offer: £49.99<br>Total Savings: £120.01 (71% OFF)</p>\n                <p class=\"mt-4\">Each fragrance in this set is a full-size, authentic product, carefully selected to complement each other. Perfect for those who appreciate variety in their fragrance collection or as a luxurious gift.</p>\n            </div>",
+      "sku": "FRAG-0002-183239",
+      "price": {
+        "regular": 49.99,
+        "sale": null,
+        "on_sale": false,
+        "discount_percent": 0,
+        "currency": "GBP"
+      },
+      "category": "Fragrance Sets",
+      "brands": [
+        "Chanel",
+        "Paco Rabanne",
+        "Carolina Herrera"
+      ],
+      "primary_brand": "Chanel",
+      "tags": [
+        "perfume",
+        "men-fragrances",
+        "uk",
+        "gift",
+        "authentic",
+        "carolina-herrera",
+        "premium",
+        "men",
+        "bestseller",
+        "offers",
+        "Chanel",
+        "fragrance-set",
+        "gift-set",
+        "paco-rabanne",
+        "collection"
+      ],
+      "images": [
+        "/productNbg/3-piece-fragrance-set-212-vip-rose-olympea-coco-mademoiselle.png"
+      ],
+      "is_combo": true,
+      "featured": false,
+      "popularity": 0,
+      "created_at": "2025-09-19T18:32:39.517684",
+      "updated_at": "2025-09-19T18:32:39.517687",
+      "status": "active",
+      "seo": {
+        "title": "3-Piece Fragrance Set: 212 VIP Rose, Olympea & Coco Mademoiselle | premium Fragrances UK",
+        "description": "Buy 3-Piece Fragrance Set: 212 VIP Rose, Olympea & Coco Mademoiselle - Chanel, Paco Rabanne und Carolina Herrera. premium men-fragrances in this 3-for-1 offer with fast delivery in the UK. Authentic perfumes IE the best price.",
+        "keywords": [
+          "perfume",
+          "men-fragrances",
+          "uk",
+          "gift",
+          "authentic",
+          "carolina-herrera",
+          "premium",
+          "men",
+          "bestseller",
+          "offers",
+          "chanel",
+          "fragrance-set",
+          "gift-set",
+          "paco-rabanne",
+          "collection"
+        ]
+      },
+      "slug": "3-piece-premium-fragrance-collection-set-29",
+      "categories": [
+        "Fragrance Sets"
+      ],
+      "_translation_metadata": {
+        "translated_from": "de",
+        "translated_to": "en",
+        "currency_converted_from": "EUR",
+        "currency_converted_to": "GBP",
+        "conversion_rate": 0.85,
+        "translated_at": "2025-09-19 19:13:09"
+      },
+      "shopify_mapping": {
+        "2": {
+          "product_id": 10187399002081,
+          "variant_id": 10187399002081,
+          "handle": "3-piece-premium-fragrance-collection-set-29",
+          "domain": "sn.theperfumeuk.shop",
+          "store_name": "SOLO NECESSITO (Store 2)",
+          "sku": "FRAG-0002-183239",
+          "title": "3-Piece Fragrance Set: 212 VIP Rose, Olympea & Coco Mademoiselle",
+          "price": 49.99,
+          "currency": "GBP"
+        },
+        "3": {
+          "product_id": 10252766576927,
+          "handle": "3-piece-premium-fragrance-collection-set-29",
+          "domain": "ae888e.myshopify.com",
+          "store_name": "SADERSTORE (Store 3)",
+          "sku": "FRAG-0002-183239"
+        }
+      }
+    },
+    {
+      "id": "3",
+      "handle": "3-piece-premium-fragrance-collection-set-30",
+      "title": "3-Piece Fragrance Set: Boss Bottled Infinite, Boss The Scent & Boss Bottled",
+      "description": "Buy 3-Piece Fragrance Set: Boss Bottled Infinite, Boss The Scent & Boss Bottled - Hugo Boss. premium men-fragrances in this 3-for-1 offer with fast delivery in the UK. Authentic perfumes IE the best price.",
+      "description_html": "<div class=\"product-description\">\n                <h3>Premium Fragrance Collection</h3>\n                <p>An exceptional combination of three iconic fragrances at an unprecedented value. This set features premium fragrances from Hugo Boss.</p>\n                <p class=\"mt-4\">Regular Value: £170.00<br>Special Offer: £49.99<br>Total Savings: £120.01 (71% OFF)</p>\n                <p class=\"mt-4\">Each fragrance in this set is a full-size, authentic product, carefully selected to complement each other. Perfect for those who appreciate variety in their fragrance collection or as a luxurious gift.</p>\n            </div>",
+      "sku": "FRAG-0003-183239",
+      "price": {
+        "regular": 49.99,
+        "sale": null,
+        "on_sale": false,
+        "discount_percent": 0,
+        "currency": "GBP"
+      },
+      "category": "Fragrance Sets",
+      "brands": [
+        "Hugo Boss"
+      ],
+      "primary_brand": "Hugo Boss",
+      "tags": [
+        "hugo-boss",
+        "perfume",
+        "men-fragrances",
+        "uk",
+        "gift",
+        "authentic",
+        "premium",
+        "men",
+        "offers",
+        "fragrance-set",
+        "gift-set",
+        "bestseller",
+        "collection"
+      ],
+      "images": [
+        "/productNbg/3-piece-fragrance-set-boss-bottled-infinite-boss-the-scent-boss-bottled.png"
+      ],
+      "is_combo": true,
+      "featured": false,
+      "popularity": 0,
+      "created_at": "2025-09-19T18:32:39.518491",
+      "updated_at": "2025-09-19T18:32:39.518494",
+      "status": "active",
+      "seo": {
+        "title": "3-Piece Fragrance Set: Boss Bottled Infinite, Boss The Scent & Boss Bottled | premium Fragrances UK",
+        "description": "Buy 3-Piece Fragrance Set: Boss Bottled Infinite, Boss The Scent & Boss Bottled - Hugo Boss. premium men-fragrances in this 3-for-1 offer with fast delivery in the UK. Authentic perfumes IE the best price.",
+        "keywords": [
+          "hugo-boss",
+          "perfume",
+          "men-fragrances",
+          "uk",
+          "gift",
+          "authentic",
+          "premium",
+          "men",
+          "offers",
+          "fragrance-set",
+          "gift-set",
+          "bestseller",
+          "collection"
+        ]
+      },
+      "slug": "3-piece-premium-fragrance-collection-set-30",
+      "categories": [
+        "Fragrance Sets"
+      ],
+      "_translation_metadata": {
+        "translated_from": "de",
+        "translated_to": "en",
+        "currency_converted_from": "EUR",
+        "currency_converted_to": "GBP",
+        "conversion_rate": 0.85,
+        "translated_at": "2025-09-19 19:13:09"
+      },
+      "shopify_mapping": {
+        "2": {
+          "product_id": 10187399003056,
+          "variant_id": 10187399003056,
+          "handle": "3-piece-premium-fragrance-collection-set-30",
+          "domain": "sn.theperfumeuk.shop",
+          "store_name": "SOLO NECESSITO (Store 2)",
+          "sku": "FRAG-0003-183239",
+          "title": "3-Piece Fragrance Set: Boss Bottled Infinite, Boss The Scent & Boss Bottled",
+          "price": 49.99,
+          "currency": "GBP"
+        },
+        "3": {
+          "product_id": 10252766609695,
+          "handle": "3-piece-premium-fragrance-collection-set-30",
+          "domain": "ae888e.myshopify.com",
+          "store_name": "SADERSTORE (Store 3)",
+          "sku": "FRAG-0003-183239"
+        }
+      }
+    },
+    {
+      "id": "4",
+      "handle": "3-piece-premium-fragrance-collection-set-31",
+      "title": "3-Piece Fragrance Set: Dylan Blue, Phantom & Ultra Male",
+      "description": "Buy 3-Piece Fragrance Set: Dylan Blue, Phantom & Ultra Male - Paco Rabanne, Jean Paul Gaultier and Versace. premium men-fragrances in this 3-for-1 offer with fast delivery in the UK. Authentic perfumes IE the best price.",
+      "description_html": "<div class=\"product-description\">\n                <h3>Premium Fragrance Collection</h3>\n                <p>An exceptional combination of three iconic fragrances at an unprecedented value. This set features premium fragrances from Paco Rabanne, Jean Paul Gaultier, Versace.</p>\n                <p class=\"mt-4\">Regular Value: £170.00<br>Special Offer: £49.99<br>Total Savings: £120.01 (71% OFF)</p>\n                <p class=\"mt-4\">Each fragrance in this set is a full-size, authentic product, carefully selected to complement each other. Perfect for those who appreciate variety in their fragrance collection or as a luxurious gift.</p>\n            </div>",
+      "sku": "FRAG-0004-183239",
+      "price": {
+        "regular": 49.99,
+        "sale": null,
+        "on_sale": false,
+        "discount_percent": 0,
+        "currency": "GBP"
+      },
+      "category": "Fragrance Sets",
+      "brands": [
+        "Paco Rabanne",
+        "Jean Paul Gaultier",
+        "Versace"
+      ],
+      "primary_brand": "Paco Rabanne",
+      "tags": [
+        "perfume",
+        "men-fragrances",
+        "uk",
+        "gift",
+        "authentic",
+        "premium",
+        "men",
+        "paco-rabanne",
+        "bestseller",
+        "offers",
+        "fragrance-set",
+        "gift-set",
+        "versace",
+        "collection",
+        "jean-paul-gaultier"
+      ],
+      "images": [
+        "/productNbg/3-piece-fragrance-set-dylan-blue-phantom-ultra-male.png"
+      ],
+      "is_combo": true,
+      "featured": false,
+      "popularity": 0,
+      "created_at": "2025-09-19T18:32:39.519331",
+      "updated_at": "2025-09-19T18:32:39.519334",
+      "status": "active",
+      "seo": {
+        "title": "3-Piece Fragrance Set: Dylan Blue, Phantom & Ultra Male | premium Fragrances UK",
+        "description": "Buy 3-Piece Fragrance Set: Dylan Blue, Phantom & Ultra Male - Paco Rabanne, Jean Paul Gaultier und Versace. premium men-fragrances in this 3-for-1 offer with fast delivery in the UK. Authentic perfumes IE the best price.",
+        "keywords": [
+          "perfume",
+          "men-fragrances",
+          "uk",
+          "gift",
+          "authentic",
+          "premium",
+          "men",
+          "paco-rabanne",
+          "bestseller",
+          "offers",
+          "fragrance-set",
+          "gift-set",
+          "versace",
+          "collection",
+          "jean-paul-gaultier"
+        ]
+      },
+      "slug": "3-piece-premium-fragrance-collection-set-31",
+      "categories": [
+        "Fragrance Sets"
+      ],
+      "_translation_metadata": {
+        "translated_from": "de",
+        "translated_to": "en",
+        "currency_converted_from": "EUR",
+        "currency_converted_to": "GBP",
+        "conversion_rate": 0.85,
+        "translated_at": "2025-09-19 19:13:09"
+      },
+      "shopify_mapping": {
+        "2": {
+          "product_id": 10187399004091,
+          "variant_id": 10187399004091,
+          "handle": "3-piece-premium-fragrance-collection-set-31",
+          "domain": "sn.theperfumeuk.shop",
+          "store_name": "SOLO NECESSITO (Store 2)",
+          "sku": "FRAG-0004-183239",
+          "title": "3-Piece Fragrance Set: Dylan Blue, Phantom & Ultra Male",
+          "price": 49.99,
+          "currency": "GBP"
+        },
+        "3": {
+          "product_id": 10252766642463,
+          "handle": "3-piece-premium-fragrance-collection-set-31",
+          "domain": "ae888e.myshopify.com",
+          "store_name": "SADERSTORE (Store 3)",
+          "sku": "FRAG-0004-183239"
+        }
+      }
+    },
+    {
+      "id": "5",
+      "handle": "3-piece-premium-fragrance-collection-set-32",
+      "title": "3-Piece Fragrance Set: Scandal, J'adore & La Vie Est Belle",
+      "description": "Buy 3-Piece Fragrance Set: Scandal, J'adore & La Vie Est Belle - Lancôme, Dior and Jean Paul Gaultier. premium men-fragrances in this 3-for-1 offer with fast delivery in the UK. Authentic perfumes IE the best price.",
+      "description_html": "<div class=\"product-description\">\n                <h3>Premium Fragrance Collection</h3>\n                <p>An exceptional combination of three iconic fragrances at an unprecedented value. This set features premium fragrances from Lancôme, Dior, Jean Paul Gaultier.</p>\n                <p class=\"mt-4\">Regular Value: £170.00<br>Special Offer: £49.99<br>Total Savings: £120.01 (71% OFF)</p>\n                <p class=\"mt-4\">Each fragrance in this set is a full-size, authentic product, carefully selected to complement each other. Perfect for those who appreciate variety in their fragrance collection or as a luxurious gift.</p>\n            </div>",
+      "sku": "FRAG-0005-183239",
+      "price": {
+        "regular": 49.99,
+        "sale": null,
+        "on_sale": false,
+        "discount_percent": 0,
+        "currency": "GBP"
+      },
+      "category": "Fragrance Sets",
+      "brands": [
+        "Lancôme",
+        "Dior",
+        "Jean Paul Gaultier"
+      ],
+      "primary_brand": "Lancôme",
+      "tags": [
+        "perfume",
+        "men-fragrances",
+        "uk",
+        "gift",
+        "authentic",
+        "premium",
+        "men",
+        "lancôme",
+        "offers",
+        "Dior",
+        "fragrance-set",
+        "gift-set",
+        "bestseller",
+        "collection",
+        "jean-paul-gaultier"
+      ],
+      "images": [
+        "/productNbg/3-piece-fragrance-set-scandal-jadore-la-vie-est-belle.png"
+      ],
+      "is_combo": true,
+      "featured": false,
+      "popularity": 0,
+      "created_at": "2025-09-19T18:32:39.520226",
+      "updated_at": "2025-09-19T18:32:39.520230",
+      "status": "active",
+      "seo": {
+        "title": "3-Piece Fragrance Set: Scandal, J'adore & La Vie Est Belle | premium Fragrances UK",
+        "description": "Buy 3-Piece Fragrance Set: Scandal, J'adore & La Vie Est Belle - Lancôme, Dior und Jean Paul Gaultier. premium men-fragrances in this 3-for-1 offer with fast delivery in the UK. Authentic perfumes IE the best price.",
+        "keywords": [
+          "perfume",
+          "men-fragrances",
+          "uk",
+          "gift",
+          "authentic",
+          "premium",
+          "men",
+          "lancôme",
+          "offers",
+          "dior",
+          "fragrance-set",
+          "gift-set",
+          "bestseller",
+          "collection",
+          "jean-paul-gaultier"
+        ]
+      },
+      "slug": "3-piece-premium-fragrance-collection-set-32",
+      "categories": [
+        "Fragrance Sets"
+      ],
+      "_translation_metadata": {
+        "translated_from": "de",
+        "translated_to": "en",
+        "currency_converted_from": "EUR",
+        "currency_converted_to": "GBP",
+        "conversion_rate": 0.85,
+        "translated_at": "2025-09-19 19:13:09"
+      },
+      "shopify_mapping": {
+        "2": {
+          "product_id": 10187399005096,
+          "variant_id": 10187399005096,
+          "handle": "3-piece-premium-fragrance-collection-set-32",
+          "domain": "sn.theperfumeuk.shop",
+          "store_name": "SOLO NECESSITO (Store 2)",
+          "sku": "FRAG-0005-183239",
+          "title": "3-Piece Fragrance Set: Scandal, J'adore & La Vie Est Belle",
+          "price": 49.99,
+          "currency": "GBP"
+        },
+        "3": {
+          "product_id": 10252766675231,
+          "handle": "3-piece-premium-fragrance-collection-set-33",
+          "domain": "ae888e.myshopify.com",
+          "store_name": "SADERSTORE (Store 3)",
+          "sku": "FRAG-0005-183239"
+        }
+      }
+    },
+    {
+      "id": "9",
+      "handle": "3-piece-premium-fragrance-collection-set-33",
+      "title": "3-Piece Fragrance Set: Y by YSL, Sauvage & Versace Eros",
+      "description": "Buy 3-Piece Fragrance Set: Y by YSL, Sauvage & Versace Eros - Yves Saint Laurent, Versace and Dior. premium men-fragrances in this 3-for-1 offer with fast delivery in the UK. Authentic perfumes IE the best price.",
+      "description_html": "<div class=\"product-description\">\n                <h3>Premium Fragrance Collection</h3>\n                <p>An exceptional combination of three iconic fragrances at an unprecedented value. This set features premium fragrances from Yves Saint Laurent, Versace, Dior.</p>\n                <p class=\"mt-4\">Regular Value: £170.00<br>Special Offer: £49.99<br>Total Savings: £120.01 (71% OFF)</p>\n                <p class=\"mt-4\">Each fragrance in this set is a full-size, authentic product, carefully selected to complement each other. Perfect for those who appreciate variety in their fragrance collection or as a luxurious gift.</p>\n            </div>",
+      "sku": "FRAG-0009-183239",
+      "price": {
+        "regular": 49.99,
+        "sale": null,
+        "on_sale": false,
+        "discount_percent": 0,
+        "currency": "GBP"
+      },
+      "category": "Fragrance Sets",
+      "brands": [
+        "Yves Saint Laurent",
+        "Versace",
+        "Dior"
+      ],
+      "primary_brand": "Yves Saint Laurent",
+      "tags": [
+        "perfume",
+        "men-fragrances",
+        "uk",
+        "gift",
+        "authentic",
+        "premium",
+        "men",
+        "bestseller",
+        "yves-saint-laurent",
+        "offers",
+        "Dior",
+        "fragrance-set",
+        "gift-set",
+        "versace",
+        "collection"
+      ],
+      "images": [
+        "/productNbg/3-piece-fragrance-set-y-by-ysl-sauvage-versace-eros.png"
+      ],
+      "is_combo": true,
+      "featured": false,
+      "popularity": 0,
+      "created_at": "2025-09-19T18:32:39.521054",
+      "updated_at": "2025-09-19T18:32:39.521056",
+      "status": "active",
+      "seo": {
+        "title": "3-Piece Fragrance Set: Y by YSL, Sauvage & Versace Eros | premium Fragrances UK",
+        "description": "Buy 3-Piece Fragrance Set: Y by YSL, Sauvage & Versace Eros - Yves Saint Laurent, Versace und Dior. premium men-fragrances in this 3-for-1 offer with fast delivery in the UK. Authentic perfumes IE the best price.",
+        "keywords": [
+          "perfume",
+          "men-fragrances",
+          "uk",
+          "gift",
+          "authentic",
+          "premium",
+          "men",
+          "bestseller",
+          "yves-saint-laurent",
+          "offers",
+          "dior",
+          "fragrance-set",
+          "gift-set",
+          "versace",
+          "collection"
+        ]
+      },
+      "slug": "3-piece-premium-fragrance-collection-set-33",
+      "categories": [
+        "Fragrance Sets"
+      ],
+      "_translation_metadata": {
+        "translated_from": "de",
+        "translated_to": "en",
+        "currency_converted_from": "EUR",
+        "currency_converted_to": "GBP",
+        "conversion_rate": 0.85,
+        "translated_at": "2025-09-19 19:13:09"
+      },
+      "shopify_mapping": {
+        "2": {
+          "product_id": 10187399006070,
+          "variant_id": 10187399006070,
+          "handle": "3-piece-premium-fragrance-collection-set-33",
+          "domain": "sn.theperfumeuk.shop",
+          "store_name": "SOLO NECESSITO (Store 2)",
+          "sku": "FRAG-0009-183239",
+          "title": "3-Piece Fragrance Set: Y by YSL, Sauvage & Versace Eros",
+          "price": 49.99,
+          "currency": "GBP"
+        },
+        "3": {
+          "product_id": 10252766707999,
+          "handle": "3-piece-premium-fragrance-collection-set-34",
+          "domain": "ae888e.myshopify.com",
+          "store_name": "SADERSTORE (Store 3)",
+          "sku": "FRAG-0009-183239"
+        }
+      }
+    },
+    {
+      "id": "10",
+      "handle": "3-piece-premium-fragrance-collection-set-34",
+      "title": "3-Piece Women's Fragrance Set: Miss 212, La Vie Est Belle & J'adore",
+      "description": "Buy 3-Piece Women's Fragrance Set: Miss 212, La Vie Est Belle & J'adore - Lancôme, Dior and Carolina Herrera. premium men-fragrances in this 3-for-1 offer with fast delivery in the UK. Authentic perfumes IE the best price.",
+      "description_html": "<div class=\"product-description\">\n                <h3>Premium Fragrance Collection</h3>\n                <p>An exceptional combination of three iconic fragrances at an unprecedented value. This set features premium fragrances from Lancôme, Dior, Carolina Herrera.</p>\n                <p class=\"mt-4\">Regular Value: £170.00<br>Special Offer: £49.99<br>Total Savings: £120.01 (71% OFF)</p>\n                <p class=\"mt-4\">Each fragrance in this set is a full-size, authentic product, carefully selected to complement each other. Perfect for those who appreciate variety in their fragrance collection or as a luxurious gift.</p>\n            </div>",
+      "sku": "FRAG-0010-183239",
+      "price": {
+        "regular": 49.99,
+        "sale": null,
+        "on_sale": false,
+        "discount_percent": 0,
+        "currency": "GBP"
+      },
+      "category": "Fragrance Sets",
+      "brands": [
+        "Lancôme",
+        "Dior",
+        "Carolina Herrera"
+      ],
+      "primary_brand": "Lancôme",
+      "tags": [
+        "frauen",
+        "perfume",
+        "uk",
+        "gift",
+        "authentic",
+        "carolina-herrera",
+        "premium",
+        "lancôme",
+        "men",
+        "offers",
+        "Dior",
+        "fragrance-set",
+        "gift-set",
+        "women-fragrances",
+        "bestseller",
+        "collection",
+        "women"
+      ],
+      "images": [
+        "/productNbg/3-piece-womens-fragrance-set-miss-212-la-vie-est-belle-jadore.png"
+      ],
+      "is_combo": true,
+      "featured": false,
+      "popularity": 0,
+      "created_at": "2025-09-19T18:32:39.521886",
+      "updated_at": "2025-09-19T18:32:39.521888",
+      "status": "active",
+      "seo": {
+        "title": "3-teiliges WoHerren Fragrance Set: Miss 212, La Vie Est Belle & J'adore | premium Düfte uk",
+        "description": "Buy 3-Piece Women's Fragrance Set: Miss 212, La Vie Est Belle & J'adore - Lancôme, Dior und Carolina Herrera. premium men-fragrances in this 3-for-1 offer with fast delivery in the UK. Authentic perfumes IE the best price.",
+        "keywords": [
+          "frauen",
+          "perfume",
+          "uk",
+          "gift",
+          "authentic",
+          "carolina-herrera",
+          "premium",
+          "lancôme",
+          "men",
+          "offers",
+          "dior",
+          "fragrance-set",
+          "gift-set",
+          "women-fragrances",
+          "bestseller",
+          "collection",
+          "women"
+        ]
+      },
+      "slug": "3-piece-premium-fragrance-collection-set-34",
+      "categories": [
+        "Fragrance Sets"
+      ],
+      "_translation_metadata": {
+        "translated_from": "de",
+        "translated_to": "en",
+        "currency_converted_from": "EUR",
+        "currency_converted_to": "GBP",
+        "conversion_rate": 0.85,
+        "translated_at": "2025-09-19 19:13:09"
+      },
+      "shopify_mapping": {
+        "2": {
+          "product_id": 10187399007052,
+          "variant_id": 10187399007052,
+          "handle": "3-piece-premium-fragrance-collection-set-34",
+          "domain": "sn.theperfumeuk.shop",
+          "store_name": "SOLO NECESSITO (Store 2)",
+          "sku": "FRAG-0010-183239",
+          "title": "3-Piece Women's Fragrance Set: Miss 212, La Vie Est Belle & J'adore",
+          "price": 49.99,
+          "currency": "GBP"
+        },
+        "3": {
+          "product_id": 10252766740767,
+          "handle": "3-piece-premium-fragrance-collection-set-35",
+          "domain": "ae888e.myshopify.com",
+          "store_name": "SADERSTORE (Store 3)",
+          "sku": "FRAG-0010-183239"
+        }
+      }
+    },
+    {
+      "id": "11",
+      "handle": "3-piece-premium-fragrance-collection-set-35",
+      "title": "3-Piece Fragrance Set: Coco Mademoiselle, Libre YSL & Chloé Signature",
+      "description": "Buy 3-Piece Fragrance Set: Coco Mademoiselle, Libre YSL & Chloé Signature - Yves Saint Laurent, Chloé and Chanel. premium men-fragrances in this 3-for-1 offer with fast delivery in the UK. Authentic perfumes IE the best price.",
+      "description_html": "<div class=\"product-description\">\n                <h3>Premium Fragrance Collection</h3>\n                <p>An exceptional combination of three iconic fragrances at an unprecedented value. This set features premium fragrances from Yves Saint Laurent, Chloé, Chanel.</p>\n                <p class=\"mt-4\">Regular Value: £170.00<br>Special Offer: £49.99<br>Total Savings: £120.01 (71% OFF)</p>\n                <p class=\"mt-4\">Each fragrance in this set is a full-size, authentic product, carefully selected to complement each other. Perfect for those who appreciate variety in their fragrance collection or as a luxurious gift.</p>\n            </div>",
+      "sku": "FRAG-0011-183239",
+      "price": {
+        "regular": 49.99,
+        "sale": null,
+        "on_sale": false,
+        "discount_percent": 0,
+        "currency": "GBP"
+      },
+      "category": "Fragrance Sets",
+      "brands": [
+        "Yves Saint Laurent",
+        "Chloé",
+        "Chanel"
+      ],
+      "primary_brand": "Yves Saint Laurent",
+      "tags": [
+        "perfume",
+        "men-fragrances",
+        "uk",
+        "gift",
+        "authentic",
+        "premium",
+        "men",
+        "bestseller",
+        "offers",
+        "chloé",
+        "Chanel",
+        "fragrance-set",
+        "gift-set",
+        "yves-saint-laurent",
+        "collection"
+      ],
+      "images": [
+        "/productNbg/3-piece-fragrance-set-coco-mademoiselle-libre-ysl-chlo-signature.png"
+      ],
+      "is_combo": true,
+      "featured": false,
+      "popularity": 0,
+      "created_at": "2025-09-19T18:32:39.522651",
+      "updated_at": "2025-09-19T18:32:39.522654",
+      "status": "active",
+      "seo": {
+        "title": "3-Piece Fragrance Set: Coco Mademoiselle, Libre YSL & Chloé Signature | premium Fragrances UK",
+        "description": "Buy 3-Piece Fragrance Set: Coco Mademoiselle, Libre YSL & Chloé Signature - Yves Saint Laurent, Chloé und Chanel. premium men-fragrances in this 3-for-1 offer with fast delivery in the UK. Authentic perfumes IE the best price.",
+        "keywords": [
+          "perfume",
+          "men-fragrances",
+          "uk",
+          "gift",
+          "authentic",
+          "premium",
+          "men",
+          "bestseller",
+          "offers",
+          "chloé",
+          "chanel",
+          "fragrance-set",
+          "gift-set",
+          "yves-saint-laurent",
+          "collection"
+        ]
+      },
+      "slug": "3-piece-premium-fragrance-collection-set-35",
+      "categories": [
+        "Fragrance Sets"
+      ],
+      "_translation_metadata": {
+        "translated_from": "de",
+        "translated_to": "en",
+        "currency_converted_from": "EUR",
+        "currency_converted_to": "GBP",
+        "conversion_rate": 0.85,
+        "translated_at": "2025-09-19 19:13:09"
+      },
+      "shopify_mapping": {
+        "2": {
+          "product_id": 10187399008065,
+          "variant_id": 10187399008065,
+          "handle": "3-piece-premium-fragrance-collection-set-35",
+          "domain": "sn.theperfumeuk.shop",
+          "store_name": "SOLO NECESSITO (Store 2)",
+          "sku": "FRAG-0011-183239",
+          "title": "3-Piece Fragrance Set: Coco Mademoiselle, Libre YSL & Chloé Signature",
+          "price": 49.99,
+          "currency": "GBP"
+        },
+        "3": {
+          "product_id": 10252766773535,
+          "handle": "3-piece-premium-fragrance-collection-set-36",
+          "domain": "ae888e.myshopify.com",
+          "store_name": "SADERSTORE (Store 3)",
+          "sku": "FRAG-0011-183239"
+        }
+      }
+    },
+    {
+      "id": "12",
+      "handle": "3-piece-premium-fragrance-collection-set-36",
+      "title": "3-Piece Women's Fragrance Set: La Vie Est Belle, Mademoiselle & Light Blue",
+      "description": "Buy 3-Piece Women's Fragrance Set: La Vie Est Belle, Mademoiselle & Light Blue - Lancôme and Dolce & Gabbana. premium men-fragrances in this 3-for-1 offer with fast delivery in the UK. Authentic perfumes IE the best price.",
+      "description_html": "<div class=\"product-description\">\n                <h3>Premium Fragrance Collection</h3>\n                <p>An exceptional combination of three iconic fragrances at an unprecedented value. This set features premium fragrances from Lancôme, Dolce & Gabbana.</p>\n                <p class=\"mt-4\">Regular Value: £170.00<br>Special Offer: £49.99<br>Total Savings: £120.01 (71% OFF)</p>\n                <p class=\"mt-4\">Each fragrance in this set is a full-size, authentic product, carefully selected to complement each other. Perfect for those who appreciate variety in their fragrance collection or as a luxurious gift.</p>\n            </div>",
+      "sku": "FRAG-0012-183239",
+      "price": {
+        "regular": 49.99,
+        "sale": null,
+        "on_sale": false,
+        "discount_percent": 0,
+        "currency": "GBP"
+      },
+      "category": "Fragrance Sets",
+      "brands": [
+        "Lancôme",
+        "Dolce & Gabbana"
+      ],
+      "primary_brand": "Lancôme",
+      "tags": [
+        "frauen",
+        "perfume",
+        "uk",
+        "gift",
+        "authentic",
+        "premium",
+        "lancôme",
+        "men",
+        "offers",
+        "dolce--gabbana",
+        "fragrance-set",
+        "gift-set",
+        "women-fragrances",
+        "bestseller",
+        "collection",
+        "women"
+      ],
+      "images": [
+        "/productNbg/3-piece-womens-fragrance-set-la-vie-est-belle-mademoiselle-light-blue.png"
+      ],
+      "is_combo": true,
+      "featured": false,
+      "popularity": 0,
+      "created_at": "2025-09-19T18:32:39.523494",
+      "updated_at": "2025-09-19T18:32:39.523497",
+      "status": "active",
+      "seo": {
+        "title": "3-teiliges WoHerren Fragrance Set: La Vie Est Belle, Mademoiselle & Light Blue | premium Düfte uk",
+        "description": "Buy 3-Piece Women's Fragrance Set: La Vie Est Belle, Mademoiselle & Light Blue - Lancôme und Dolce & Gabbana. premium men-fragrances in this 3-for-1 offer with fast delivery in the UK. Authentic perfumes IE the best price.",
+        "keywords": [
+          "frauen",
+          "perfume",
+          "uk",
+          "gift",
+          "authentic",
+          "premium",
+          "lancôme",
+          "men",
+          "offers",
+          "dolce--gabbana",
+          "fragrance-set",
+          "gift-set",
+          "women-fragrances",
+          "bestseller",
+          "collection",
+          "women"
+        ]
+      },
+      "slug": "3-piece-premium-fragrance-collection-set-36",
+      "categories": [
+        "Fragrance Sets"
+      ],
+      "_translation_metadata": {
+        "translated_from": "de",
+        "translated_to": "en",
+        "currency_converted_from": "EUR",
+        "currency_converted_to": "GBP",
+        "conversion_rate": 0.85,
+        "translated_at": "2025-09-19 19:13:09"
+      },
+      "shopify_mapping": {
+        "2": {
+          "product_id": 10187399009095,
+          "variant_id": 10187399009095,
+          "handle": "3-piece-premium-fragrance-collection-set-36",
+          "domain": "sn.theperfumeuk.shop",
+          "store_name": "SOLO NECESSITO (Store 2)",
+          "sku": "FRAG-0012-183239",
+          "title": "3-Piece Women's Fragrance Set: La Vie Est Belle, Mademoiselle & Light Blue",
+          "price": 49.99,
+          "currency": "GBP"
+        },
+        "3": {
+          "product_id": 10252766806303,
+          "handle": "3-piece-premium-fragrance-collection-set-37",
+          "domain": "ae888e.myshopify.com",
+          "store_name": "SADERSTORE (Store 3)",
+          "sku": "FRAG-0012-183239"
+        }
+      }
+    },
+    {
+      "id": "13",
+      "handle": "3-piece-premium-fragrance-collection-set-37",
+      "title": "3-Piece Fragrance Set: Hypnotic Poison, Sì Giorgio Armani & Dylan Turquoise",
+      "description": "Buy 3-Piece Fragrance Set: Hypnotic Poison, Sì Giorgio Armani & Dylan Turquoise - Giorgio Armani, Versace and Dior. premium men-fragrances in this 3-for-1 offer with fast delivery in the UK. Authentic perfumes IE the best price.",
+      "description_html": "<div class=\"product-description\">\n                <h3>Premium Fragrance Collection</h3>\n                <p>An exceptional combination of three iconic fragrances at an unprecedented value. This set features premium fragrances from Giorgio Armani, Versace, Dior.</p>\n                <p class=\"mt-4\">Regular Value: £170.00<br>Special Offer: £49.99<br>Total Savings: £120.01 (71% OFF)</p>\n                <p class=\"mt-4\">Each fragrance in this set is a full-size, authentic product, carefully selected to complement each other. Perfect for those who appreciate variety in their fragrance collection or as a luxurious gift.</p>\n            </div>",
+      "sku": "FRAG-0013-183239",
+      "price": {
+        "regular": 49.99,
+        "sale": null,
+        "on_sale": false,
+        "discount_percent": 0,
+        "currency": "GBP"
+      },
+      "category": "Fragrance Sets",
+      "brands": [
+        "Giorgio Armani",
+        "Versace",
+        "Dior"
+      ],
+      "primary_brand": "Giorgio Armani",
+      "tags": [
+        "perfume",
+        "men-fragrances",
+        "uk",
+        "gift",
+        "authentic",
+        "giorgio-armani",
+        "premium",
+        "men",
+        "bestseller",
+        "offers",
+        "Dior",
+        "fragrance-set",
+        "gift-set",
+        "versace",
+        "collection"
+      ],
+      "images": [
+        "/productNbg/3-piece-fragrance-set-hypnotic-poison-s-giorgio-armani-dylan-turquoise.png"
+      ],
+      "is_combo": true,
+      "featured": false,
+      "popularity": 0,
+      "created_at": "2025-09-19T18:32:39.524331",
+      "updated_at": "2025-09-19T18:32:39.524334",
+      "status": "active",
+      "seo": {
+        "title": "3-Piece Fragrance Set: Hypnotic Poison, Sì Giorgio Armani & Dylan Turquoise | premium Fragrances UK",
+        "description": "Buy 3-Piece Fragrance Set: Hypnotic Poison, Sì Giorgio Armani & Dylan Turquoise - Giorgio Armani, Versace und Dior. premium men-fragrances in this 3-for-1 offer with fast delivery in the UK. Authentic perfumes IE the best price.",
+        "keywords": [
+          "perfume",
+          "men-fragrances",
+          "uk",
+          "gift",
+          "authentic",
+          "giorgio-armani",
+          "premium",
+          "men",
+          "bestseller",
+          "offers",
+          "dior",
+          "fragrance-set",
+          "gift-set",
+          "versace",
+          "collection"
+        ]
+      },
+      "slug": "3-piece-premium-fragrance-collection-set-37",
+      "categories": [
+        "Fragrance Sets"
+      ],
+      "_translation_metadata": {
+        "translated_from": "de",
+        "translated_to": "en",
+        "currency_converted_from": "EUR",
+        "currency_converted_to": "GBP",
+        "conversion_rate": 0.85,
+        "translated_at": "2025-09-19 19:13:09"
+      },
+      "shopify_mapping": {
+        "2": {
+          "product_id": 10187399010001,
+          "variant_id": 10187399010001,
+          "handle": "3-piece-premium-fragrance-collection-set-37",
+          "domain": "sn.theperfumeuk.shop",
+          "store_name": "SOLO NECESSITO (Store 2)",
+          "sku": "FRAG-0013-183239",
+          "title": "3-Piece Fragrance Set: Hypnotic Poison, Sì Giorgio Armani & Dylan Turquoise",
+          "price": 49.99,
+          "currency": "GBP"
+        },
+        "3": {
+          "product_id": 10252766839071,
+          "handle": "3-piece-premium-fragrance-collection-set-38",
+          "domain": "ae888e.myshopify.com",
+          "store_name": "SADERSTORE (Store 3)",
+          "sku": "FRAG-0013-183239"
+        }
+      }
+    },
+    {
+      "id": "14",
+      "handle": "3-piece-premium-fragrance-collection-set-38",
+      "title": "3-Piece Men's Fragrance Set: 1 Million, Bleu GB Chanel & 212 VIP Black",
+      "description": "Buy 3-Piece Men's Fragrance Set: 1 Million, Bleu GB Chanel & 212 VIP Black - Chanel, Paco Rabanne, Carolina Herrera and Bulgari. premium men-fragrances in this 3-for-1 offer with fast delivery in the UK. Authentic perfumes IE the best price.",
+      "description_html": "<div class=\"product-description\">\n                <h3>Premium Fragrance Collection</h3>\n                <p>An exceptional combination of three iconic fragrances at an unprecedented value. This set features premium fragrances from Chanel, Paco Rabanne, Carolina Herrera, Bulgari.</p>\n                <p class=\"mt-4\">Regular Value: £170.00<br>Special Offer: £49.99<br>Total Savings: £120.01 (71% OFF)</p>\n                <p class=\"mt-4\">Each fragrance in this set is a full-size, authentic product, carefully selected to complement each other. Perfect for those who appreciate variety in their fragrance collection or as a luxurious gift.</p>\n            </div>",
+      "sku": "FRAG-0014-183239",
+      "price": {
+        "regular": 49.99,
+        "sale": null,
+        "on_sale": false,
+        "discount_percent": 0,
+        "currency": "GBP"
+      },
+      "category": "Fragrance Sets",
+      "brands": [
+        "Chanel",
+        "Paco Rabanne",
+        "Carolina Herrera",
+        "Bulgari"
+      ],
+      "primary_brand": "Chanel",
+      "tags": [
+        "bulgari",
+        "perfume",
+        "men-fragrances",
+        "uk",
+        "gift",
+        "authentic",
+        "carolina-herrera",
+        "premium",
+        "men",
+        "bestseller",
+        "offers",
+        "Chanel",
+        "fragrance-set",
+        "gift-set",
+        "paco-rabanne",
+        "collection"
+      ],
+      "images": [
+        "/productNbg/3-piece-mens-fragrance-set-1-million-bleu-de-chanel-212-vip-black.png"
+      ],
+      "is_combo": true,
+      "featured": false,
+      "popularity": 0,
+      "created_at": "2025-09-19T18:32:39.525171",
+      "updated_at": "2025-09-19T18:32:39.525174",
+      "status": "active",
+      "seo": {
+        "title": "3-teiliges men Fragrance Set: 1 Million, Bleu GB Chanel & 212 VIP Black | premium Düfte uk",
+        "description": "Buy 3-Piece Men's Fragrance Set: 1 Million, Bleu GB Chanel & 212 VIP Black - Chanel, Paco Rabanne, Carolina Herrera und Bulgari. premium men-fragrances in this 3-for-1 offer with fast delivery in the UK. Authentic perfumes IE the best price.",
+        "keywords": [
+          "bulgari",
+          "perfume",
+          "men-fragrances",
+          "uk",
+          "gift",
+          "authentic",
+          "carolina-herrera",
+          "premium",
+          "men",
+          "bestseller",
+          "offers",
+          "chanel",
+          "fragrance-set",
+          "gift-set",
+          "paco-rabanne",
+          "collection"
+        ]
+      },
+      "slug": "3-piece-premium-fragrance-collection-set-38",
+      "categories": [
+        "Fragrance Sets"
+      ],
+      "_translation_metadata": {
+        "translated_from": "de",
+        "translated_to": "en",
+        "currency_converted_from": "EUR",
+        "currency_converted_to": "GBP",
+        "conversion_rate": 0.85,
+        "translated_at": "2025-09-19 19:13:09"
+      },
+      "shopify_mapping": {
+        "2": {
+          "product_id": 10187399011089,
+          "variant_id": 10187399011089,
+          "handle": "3-piece-premium-fragrance-collection-set-38",
+          "domain": "sn.theperfumeuk.shop",
+          "store_name": "SOLO NECESSITO (Store 2)",
+          "sku": "FRAG-0014-183239",
+          "title": "3-Piece Men's Fragrance Set: 1 Million, Bleu GB Chanel & 212 VIP Black",
+          "price": 49.99,
+          "currency": "GBP"
+        },
+        "3": {
+          "product_id": 10252766871839,
+          "handle": "3-piece-premium-fragrance-collection-set-39",
+          "domain": "ae888e.myshopify.com",
+          "store_name": "SADERSTORE (Store 3)",
+          "sku": "FRAG-0014-183239"
+        }
+      }
+    },
+    {
+      "id": "15",
+      "handle": "3-piece-premium-fragrance-collection-set-39",
+      "title": "3-Piece Men's Fragrance Set: 212 Black, 212 Men & 1 Million",
+      "description": "Buy 3-Piece Men's Fragrance Set: 212 Black, 212 Men & 1 Million - Paco Rabanne, Carolina Herrera and Bulgari. premium men-fragrances in this 3-for-1 offer with fast delivery in the UK. Authentic perfumes IE the best price.",
+      "description_html": "<div class=\"product-description\">\n                <h3>Premium Fragrance Collection</h3>\n                <p>An exceptional combination of three iconic fragrances at an unprecedented value. This set features premium fragrances from Paco Rabanne, Carolina Herrera, Bulgari.</p>\n                <p class=\"mt-4\">Regular Value: £170.00<br>Special Offer: £49.99<br>Total Savings: £120.01 (71% OFF)</p>\n                <p class=\"mt-4\">Each fragrance in this set is a full-size, authentic product, carefully selected to complement each other. Perfect for those who appreciate variety in their fragrance collection or as a luxurious gift.</p>\n            </div>",
+      "sku": "FRAG-0015-183239",
+      "price": {
+        "regular": 49.99,
+        "sale": null,
+        "on_sale": false,
+        "discount_percent": 0,
+        "currency": "GBP"
+      },
+      "category": "Fragrance Sets",
+      "brands": [
+        "Paco Rabanne",
+        "Carolina Herrera",
+        "Bulgari"
+      ],
+      "primary_brand": "Paco Rabanne",
+      "tags": [
+        "bulgari",
+        "perfume",
+        "men-fragrances",
+        "uk",
+        "gift",
+        "authentic",
+        "carolina-herrera",
+        "premium",
+        "men",
+        "bestseller",
+        "offers",
+        "fragrance-set",
+        "gift-set",
+        "paco-rabanne",
+        "collection"
+      ],
+      "images": [
+        "/productNbg/3-piece-mens-fragrance-set-212-black-212-men-1-million.png"
+      ],
+      "is_combo": true,
+      "featured": false,
+      "popularity": 0,
+      "created_at": "2025-09-19T18:32:39.525937",
+      "updated_at": "2025-09-19T18:32:39.525939",
+      "status": "active",
+      "seo": {
+        "title": "3-teiliges men Fragrance Set: 212 Black, 212 Men & 1 Million | premium Düfte uk",
+        "description": "Buy 3-Piece Men's Fragrance Set: 212 Black, 212 Men & 1 Million - Paco Rabanne, Carolina Herrera und Bulgari. premium men-fragrances in this 3-for-1 offer with fast delivery in the UK. Authentic perfumes IE the best price.",
+        "keywords": [
+          "bulgari",
+          "perfume",
+          "men-fragrances",
+          "uk",
+          "gift",
+          "authentic",
+          "carolina-herrera",
+          "premium",
+          "men",
+          "bestseller",
+          "offers",
+          "fragrance-set",
+          "gift-set",
+          "paco-rabanne",
+          "collection"
+        ]
+      },
+      "slug": "3-piece-premium-fragrance-collection-set-39",
+      "categories": [
+        "Fragrance Sets"
+      ],
+      "_translation_metadata": {
+        "translated_from": "de",
+        "translated_to": "en",
+        "currency_converted_from": "EUR",
+        "currency_converted_to": "GBP",
+        "conversion_rate": 0.85,
+        "translated_at": "2025-09-19 19:13:09"
+      },
+      "shopify_mapping": {
+        "2": {
+          "product_id": 10187399012006,
+          "variant_id": 10187399012006,
+          "handle": "3-piece-premium-fragrance-collection-set-39",
+          "domain": "sn.theperfumeuk.shop",
+          "store_name": "SOLO NECESSITO (Store 2)",
+          "sku": "FRAG-0015-183239",
+          "title": "3-Piece Men's Fragrance Set: 212 Black, 212 Men & 1 Million",
+          "price": 49.99,
+          "currency": "GBP"
+        },
+        "3": {
+          "product_id": 10252766904607,
+          "handle": "3-piece-premium-fragrance-collection-set-40",
+          "domain": "ae888e.myshopify.com",
+          "store_name": "SADERSTORE (Store 3)",
+          "sku": "FRAG-0015-183239"
+        }
+      }
+    },
+    {
+      "id": "16",
+      "handle": "3-piece-premium-fragrance-collection-set-40",
+      "title": "3-Piece Men's Fragrance Set: Azzaro, 212 Black & Silver Scent",
+      "description": "Buy 3-Piece Men's Fragrance Set: Azzaro, 212 Black & Silver Scent - Azzaro, Carolina Herrera and Bulgari. premium men-fragrances in this 3-for-1 offer with fast delivery in the UK. Authentic perfumes IE the best price.",
+      "description_html": "<div class=\"product-description\">\n                <h3>Premium Fragrance Collection</h3>\n                <p>An exceptional combination of three iconic fragrances at an unprecedented value. This set features premium fragrances from Azzaro, Carolina Herrera, Bulgari.</p>\n                <p class=\"mt-4\">Regular Value: £170.00<br>Special Offer: £49.99<br>Total Savings: £120.01 (71% OFF)</p>\n                <p class=\"mt-4\">Each fragrance in this set is a full-size, authentic product, carefully selected to complement each other. Perfect for those who appreciate variety in their fragrance collection or as a luxurious gift.</p>\n            </div>",
+      "sku": "FRAG-0016-183239",
+      "price": {
+        "regular": 49.99,
+        "sale": null,
+        "on_sale": false,
+        "discount_percent": 0,
+        "currency": "GBP"
+      },
+      "category": "Fragrance Sets",
+      "brands": [
+        "Azzaro",
+        "Carolina Herrera",
+        "Bulgari"
+      ],
+      "primary_brand": "Azzaro",
+      "tags": [
+        "bulgari",
+        "perfume",
+        "men-fragrances",
+        "uk",
+        "gift",
+        "authentic",
+        "carolina-herrera",
+        "premium",
+        "men",
+        "azzaro",
+        "offers",
+        "fragrance-set",
+        "gift-set",
+        "bestseller",
+        "collection"
+      ],
+      "images": [
+        "/productNbg/3-piece-mens-fragrance-set-azzaro-212-black-silver-scent.png"
+      ],
+      "is_combo": true,
+      "featured": false,
+      "popularity": 0,
+      "created_at": "2025-09-19T18:32:39.526801",
+      "updated_at": "2025-09-19T18:32:39.526804",
+      "status": "active",
+      "seo": {
+        "title": "3-teiliges men Fragrance Set: Azzaro, 212 Black & Silver Scent | premium Düfte uk",
+        "description": "Buy 3-Piece Men's Fragrance Set: Azzaro, 212 Black & Silver Scent - Azzaro, Carolina Herrera und Bulgari. premium men-fragrances in this 3-for-1 offer with fast delivery in the UK. Authentic perfumes IE the best price.",
+        "keywords": [
+          "bulgari",
+          "perfume",
+          "men-fragrances",
+          "uk",
+          "gift",
+          "authentic",
+          "carolina-herrera",
+          "premium",
+          "men",
+          "azzaro",
+          "offers",
+          "fragrance-set",
+          "gift-set",
+          "bestseller",
+          "collection"
+        ]
+      },
+      "slug": "3-piece-premium-fragrance-collection-set-40",
+      "categories": [
+        "Fragrance Sets"
+      ],
+      "_translation_metadata": {
+        "translated_from": "de",
+        "translated_to": "en",
+        "currency_converted_from": "EUR",
+        "currency_converted_to": "GBP",
+        "conversion_rate": 0.85,
+        "translated_at": "2025-09-19 19:13:09"
+      },
+      "shopify_mapping": {
+        "2": {
+          "product_id": 10187399013028,
+          "variant_id": 10187399013028,
+          "handle": "3-piece-premium-fragrance-collection-set-40",
+          "domain": "sn.theperfumeuk.shop",
+          "store_name": "SOLO NECESSITO (Store 2)",
+          "sku": "FRAG-0016-183239",
+          "title": "3-Piece Men's Fragrance Set: Azzaro, 212 Black & Silver Scent",
+          "price": 49.99,
+          "currency": "GBP"
+        },
+        "3": {
+          "product_id": 10252766937375,
+          "handle": "3-piece-premium-fragrance-collection-set-41",
+          "domain": "ae888e.myshopify.com",
+          "store_name": "SADERSTORE (Store 3)",
+          "sku": "FRAG-0016-183239"
+        }
+      }
+    },
+    {
+      "id": "17",
+      "handle": "3-piece-premium-fragrance-collection-set-41",
+      "title": "3-Piece Men's Fragrance Set: Ferrari Black, 212 VIP & Bulgari In Black",
+      "description": "Buy 3-Piece Men's Fragrance Set: Ferrari Black, 212 VIP & Bulgari In Black - Bulgari, Ferrari and Carolina Herrera. premium men-fragrances in this 3-for-1 offer with fast delivery in the UK. Authentic perfumes IE the best price.",
+      "description_html": "<div class=\"product-description\">\n                <h3>Premium Fragrance Collection</h3>\n                <p>An exceptional combination of three iconic fragrances at an unprecedented value. This set features premium fragrances from Bulgari, Ferrari, Carolina Herrera.</p>\n                <p class=\"mt-4\">Regular Value: £170.00<br>Special Offer: £49.99<br>Total Savings: £120.01 (71% OFF)</p>\n                <p class=\"mt-4\">Each fragrance in this set is a full-size, authentic product, carefully selected to complement each other. Perfect for those who appreciate variety in their fragrance collection or as a luxurious gift.</p>\n            </div>",
+      "sku": "FRAG-0017-183239",
+      "price": {
+        "regular": 49.99,
+        "sale": null,
+        "on_sale": false,
+        "discount_percent": 0,
+        "currency": "GBP"
+      },
+      "category": "Fragrance Sets",
+      "brands": [
+        "Bulgari",
+        "Ferrari",
+        "Carolina Herrera"
+      ],
+      "primary_brand": "Bulgari",
+      "tags": [
+        "bulgari",
+        "perfume",
+        "men-fragrances",
+        "uk",
+        "gift",
+        "authentic",
+        "carolina-herrera",
+        "premium",
+        "men",
+        "gift-set",
+        "offers",
+        "fragrance-set",
+        "ferrari",
+        "bestseller",
+        "collection"
+      ],
+      "images": [
+        "/productNbg/3-piece-mens-fragrance-set-ferrari-black-212-vip-bulgari-in-black.png"
+      ],
+      "is_combo": true,
+      "featured": false,
+      "popularity": 0,
+      "created_at": "2025-09-19T18:32:39.527687",
+      "updated_at": "2025-09-19T18:32:39.527690",
+      "status": "active",
+      "seo": {
+        "title": "3-teiliges men Fragrance Set: Ferrari Black, 212 VIP & Bulgari In Black | premium Düfte uk",
+        "description": "Buy 3-Piece Men's Fragrance Set: Ferrari Black, 212 VIP & Bulgari In Black - Bulgari, Ferrari und Carolina Herrera. premium men-fragrances in this 3-for-1 offer with fast delivery in the UK. Authentic perfumes IE the best price.",
+        "keywords": [
+          "bulgari",
+          "perfume",
+          "men-fragrances",
+          "uk",
+          "gift",
+          "authentic",
+          "carolina-herrera",
+          "premium",
+          "men",
+          "gift-set",
+          "offers",
+          "fragrance-set",
+          "ferrari",
+          "bestseller",
+          "collection"
+        ]
+      },
+      "slug": "3-piece-premium-fragrance-collection-set-41",
+      "categories": [
+        "Fragrance Sets"
+      ],
+      "_translation_metadata": {
+        "translated_from": "de",
+        "translated_to": "en",
+        "currency_converted_from": "EUR",
+        "currency_converted_to": "GBP",
+        "conversion_rate": 0.85,
+        "translated_at": "2025-09-19 19:13:09"
+      },
+      "shopify_mapping": {
+        "2": {
+          "product_id": 10187399014049,
+          "variant_id": 10187399014049,
+          "handle": "3-piece-premium-fragrance-collection-set-41",
+          "domain": "sn.theperfumeuk.shop",
+          "store_name": "SOLO NECESSITO (Store 2)",
+          "sku": "FRAG-0017-183239",
+          "title": "3-Piece Men's Fragrance Set: Ferrari Black, 212 VIP & Bulgari In Black",
+          "price": 49.99,
+          "currency": "GBP"
+        },
+        "3": {
+          "product_id": 10252766970143,
+          "handle": "3-piece-premium-fragrance-collection-set-42",
+          "domain": "ae888e.myshopify.com",
+          "store_name": "SADERSTORE (Store 3)",
+          "sku": "FRAG-0017-183239"
+        }
+      }
+    },
+    {
+      "id": "18",
+      "handle": "3-piece-premium-fragrance-collection-set-42",
+      "title": "3-Piece Men's Fragrance Set: Sauvage, Invictus & 1 Million",
+      "description": "Buy 3-Piece Men's Fragrance Set: Sauvage, Invictus & 1 Million - Paco Rabanne and Dior. premium men-fragrances in this 3-for-1 offer with fast delivery in the UK. Authentic perfumes IE the best price.",
+      "description_html": "<div class=\"product-description\">\n                <h3>Premium Fragrance Collection</h3>\n                <p>An exceptional combination of three iconic fragrances at an unprecedented value. This set features premium fragrances from Paco Rabanne, Dior.</p>\n                <p class=\"mt-4\">Regular Value: £170.00<br>Special Offer: £49.99<br>Total Savings: £120.01 (71% OFF)</p>\n                <p class=\"mt-4\">Each fragrance in this set is a full-size, authentic product, carefully selected to complement each other. Perfect for those who appreciate variety in their fragrance collection or as a luxurious gift.</p>\n            </div>",
+      "sku": "FRAG-0018-183239",
+      "price": {
+        "regular": 49.99,
+        "sale": null,
+        "on_sale": false,
+        "discount_percent": 0,
+        "currency": "GBP"
+      },
+      "category": "Fragrance Sets",
+      "brands": [
+        "Paco Rabanne",
+        "Dior"
+      ],
+      "primary_brand": "Paco Rabanne",
+      "tags": [
+        "perfume",
+        "men-fragrances",
+        "uk",
+        "gift",
+        "authentic",
+        "premium",
+        "men",
+        "bestseller",
+        "offers",
+        "Dior",
+        "fragrance-set",
+        "gift-set",
+        "paco-rabanne",
+        "collection"
+      ],
+      "images": [
+        "/productNbg/3-piece-mens-fragrance-set-sauvage-invictus-1-million.png"
+      ],
+      "is_combo": true,
+      "featured": false,
+      "popularity": 0,
+      "created_at": "2025-09-19T18:32:39.528564",
+      "updated_at": "2025-09-19T18:32:39.528567",
+      "status": "active",
+      "seo": {
+        "title": "3-teiliges men Fragrance Set: Sauvage, Invictus & 1 Million | premium Düfte uk",
+        "description": "Buy 3-Piece Men's Fragrance Set: Sauvage, Invictus & 1 Million - Paco Rabanne und Dior. premium men-fragrances in this 3-for-1 offer with fast delivery in the UK. Authentic perfumes IE the best price.",
+        "keywords": [
+          "perfume",
+          "men-fragrances",
+          "uk",
+          "gift",
+          "authentic",
+          "premium",
+          "men",
+          "bestseller",
+          "offers",
+          "dior",
+          "fragrance-set",
+          "gift-set",
+          "paco-rabanne",
+          "collection"
+        ]
+      },
+      "slug": "3-piece-premium-fragrance-collection-set-42",
+      "categories": [
+        "Fragrance Sets"
+      ],
+      "_translation_metadata": {
+        "translated_from": "de",
+        "translated_to": "en",
+        "currency_converted_from": "EUR",
+        "currency_converted_to": "GBP",
+        "conversion_rate": 0.85,
+        "translated_at": "2025-09-19 19:13:09"
+      },
+      "shopify_mapping": {
+        "2": {
+          "product_id": 10187399015074,
+          "variant_id": 10187399015074,
+          "handle": "3-piece-premium-fragrance-collection-set-42",
+          "domain": "sn.theperfumeuk.shop",
+          "store_name": "SOLO NECESSITO (Store 2)",
+          "sku": "FRAG-0018-183239",
+          "title": "3-Piece Men's Fragrance Set: Sauvage, Invictus & 1 Million",
+          "price": 49.99,
+          "currency": "GBP"
+        },
+        "3": {
+          "product_id": 10252767002911,
+          "handle": "3-piece-premium-fragrance-collection-set-43",
+          "domain": "ae888e.myshopify.com",
+          "store_name": "SADERSTORE (Store 3)",
+          "sku": "FRAG-0018-183239"
+        }
+      }
+    },
+    {
+      "id": "19",
+      "handle": "3-piece-premium-fragrance-collection-set-1",
+      "title": "3-Piece Men's Fragrance Set: Yves Saint Laurent Y, Y Eau GB Perfume, Jean Paul Gaultier Scandal",
+      "description": "Buy 3-Piece Men's Fragrance Set: Yves Saint Laurent Y, Y Eau GB Perfume, Jean Paul Gaultier Scandal - Yves Saint Laurent and Jean Paul Gaultier. premium men-fragrances in this 3-for-1 offer with fast delivery in the UK. Authentic perfumes IE the best price.",
+      "description_html": "<div class=\"product-description\">\n                <h3>Premium Fragrance Collection</h3>\n                <p>An exceptional combination of three iconic fragrances at an unprecedented value. This set features premium fragrances from Yves Saint Laurent, Jean Paul Gaultier.</p>\n                <p class=\"mt-4\">Regular Value: £170.00<br>Special Offer: £49.99<br>Total Savings: £120.01 (71% OFF)</p>\n                <p class=\"mt-4\">Each fragrance in this set is a full-size, authentic product, carefully selected to complement each other. Perfect for those who appreciate variety in their fragrance collection or as a luxurious gift.</p>\n            </div>",
+      "sku": "FRAG-0019-183239",
+      "price": {
+        "regular": 49.99,
+        "sale": null,
+        "on_sale": false,
+        "discount_percent": 0,
+        "currency": "GBP"
+      },
+      "category": "Fragrance Sets",
+      "brands": [
+        "Yves Saint Laurent",
+        "Jean Paul Gaultier"
+      ],
+      "primary_brand": "Yves Saint Laurent",
+      "tags": [
+        "perfume",
+        "men-fragrances",
+        "uk",
+        "gift",
+        "authentic",
+        "premium",
+        "men",
+        "bestseller",
+        "offers",
+        "fragrance-set",
+        "gift-set",
+        "yves-saint-laurent",
+        "collection",
+        "jean-paul-gaultier"
+      ],
+      "images": [
+        "/productNbg/3-piece-mens-fragrance-set-yves-saint-laurent-y-y-eau-de-parfum-jean-paul-gaultier-scandal.png"
+      ],
+      "is_combo": true,
+      "featured": false,
+      "popularity": 0,
+      "created_at": "2025-09-19T18:32:39.529503",
+      "updated_at": "2025-09-19T18:32:39.529506",
+      "status": "active",
+      "seo": {
+        "title": "3-teiliges premium Duft collection Set 1 | premium Düfte uk",
+        "description": "Buy 3-Piece Men's Fragrance Set: Yves Saint Laurent Y, Y Eau GB Parfum, Jean Paul Gaultier Scandal - Yves Saint Laurent und Jean Paul Gaultier. premium men-fragrances in this 3-for-1 offer with fast delivery in the UK. Authentic perfumes IE the best price.",
+        "keywords": [
+          "perfume",
+          "men-fragrances",
+          "uk",
+          "gift",
+          "authentic",
+          "premium",
+          "men",
+          "bestseller",
+          "offers",
+          "fragrance-set",
+          "gift-set",
+          "yves-saint-laurent",
+          "collection",
+          "jean-paul-gaultier"
+        ]
+      },
+      "slug": "3-piece-premium-fragrance-collection-set-1",
+      "categories": [
+        "Fragrance Sets"
+      ],
+      "_translation_metadata": {
+        "translated_from": "de",
+        "translated_to": "en",
+        "currency_converted_from": "EUR",
+        "currency_converted_to": "GBP",
+        "conversion_rate": 0.85,
+        "translated_at": "2025-09-19 19:13:09"
+      },
+      "shopify_mapping": {
+        "2": {
+          "product_id": 10187399016061,
+          "variant_id": 10187399016061,
+          "handle": "3-piece-premium-fragrance-collection-set-1",
+          "domain": "sn.theperfumeuk.shop",
+          "store_name": "SOLO NECESSITO (Store 2)",
+          "sku": "FRAG-0019-183239",
+          "title": "3-Piece Men's Fragrance Set: Yves Saint Laurent Y, Y Eau GB Perfume, Jean Paul Gaultier Scandal",
+          "price": 49.99,
+          "currency": "GBP"
+        },
+        "3": {
+          "product_id": 10252767035679,
+          "handle": "3-piece-premium-fragrance-collection-set-1",
+          "domain": "ae888e.myshopify.com",
+          "store_name": "SADERSTORE (Store 3)",
+          "sku": "FRAG-0019-183239"
+        }
+      }
+    },
+    {
+      "id": "20",
+      "handle": "3-piece-premium-fragrance-collection-set-10",
+      "title": "3-Piece Men's Fragrance Set: Armani Eau Pour Homme, Dior Sauvage, Valentino Uomo",
+      "description": "Buy 3-Piece Men's Fragrance Set: Armani Eau Pour Homme, Dior Sauvage, Valentino Uomo - Dior, Giorgio Armani and Valentino. premium men-fragrances in this 3-for-1 offer with fast delivery in the UK. Authentic perfumes IE the best price.",
+      "description_html": "<div class=\"product-description\">\n                <h3>Premium Fragrance Collection</h3>\n                <p>An exceptional combination of three iconic fragrances at an unprecedented value. This set features premium fragrances from Dior, Giorgio Armani, Valentino.</p>\n                <p class=\"mt-4\">Regular Value: £170.00<br>Special Offer: £49.99<br>Total Savings: £120.01 (71% OFF)</p>\n                <p class=\"mt-4\">Each fragrance in this set is a full-size, authentic product, carefully selected to complement each other. Perfect for those who appreciate variety in their fragrance collection or as a luxurious gift.</p>\n            </div>",
+      "sku": "FRAG-0020-183239",
+      "price": {
+        "regular": 49.99,
+        "sale": null,
+        "on_sale": false,
+        "discount_percent": 0,
+        "currency": "GBP"
+      },
+      "category": "Fragrance Sets",
+      "brands": [
+        "Dior",
+        "Giorgio Armani",
+        "Valentino"
+      ],
+      "primary_brand": "Dior",
+      "tags": [
+        "perfume",
+        "men-fragrances",
+        "uk",
+        "gift",
+        "authentic",
+        "giorgio-armani",
+        "premium",
+        "men",
+        "gift-set",
+        "offers",
+        "Dior",
+        "fragrance-set",
+        "valentino",
+        "bestseller",
+        "collection"
+      ],
+      "images": [
+        "/productNbg/3-piece-mens-fragrance-set-armani-eau-pour-homme-dior-sauvage-valentino-uomo.png"
+      ],
+      "is_combo": true,
+      "featured": false,
+      "popularity": 0,
+      "created_at": "2025-09-19T18:32:39.530320",
+      "updated_at": "2025-09-19T18:32:39.530323",
+      "status": "active",
+      "seo": {
+        "title": "3-teiliges premium Duft collection Set 10 | premium Düfte uk",
+        "description": "Buy 3-Piece Men's Fragrance Set: Armani Eau Pour Homme, Dior Sauvage, Valentino Uomo - Dior, Giorgio Armani und Valentino. premium men-fragrances in this 3-for-1 offer with fast delivery in the UK. Authentic perfumes IE the best price.",
+        "keywords": [
+          "perfume",
+          "men-fragrances",
+          "uk",
+          "gift",
+          "authentic",
+          "giorgio-armani",
+          "premium",
+          "men",
+          "gift-set",
+          "offers",
+          "dior",
+          "fragrance-set",
+          "valentino",
+          "bestseller",
+          "collection"
+        ]
+      },
+      "slug": "3-piece-premium-fragrance-collection-set-10",
+      "categories": [
+        "Fragrance Sets"
+      ],
+      "_translation_metadata": {
+        "translated_from": "de",
+        "translated_to": "en",
+        "currency_converted_from": "EUR",
+        "currency_converted_to": "GBP",
+        "conversion_rate": 0.85,
+        "translated_at": "2025-09-19 19:13:09"
+      },
+      "shopify_mapping": {
+        "2": {
+          "product_id": 10187399017044,
+          "variant_id": 10187399017044,
+          "handle": "3-piece-premium-fragrance-collection-set-10",
+          "domain": "sn.theperfumeuk.shop",
+          "store_name": "SOLO NECESSITO (Store 2)",
+          "sku": "FRAG-0020-183239",
+          "title": "3-Piece Men's Fragrance Set: Armani Eau Pour Homme, Dior Sauvage, Valentino Uomo",
+          "price": 49.99,
+          "currency": "GBP"
+        },
+        "3": {
+          "product_id": 10252767068447,
+          "handle": "3-piece-premium-fragrance-collection-set-10",
+          "domain": "ae888e.myshopify.com",
+          "store_name": "SADERSTORE (Store 3)",
+          "sku": "FRAG-0020-183239"
+        }
+      }
+    },
+    {
+      "id": "21",
+      "handle": "3-piece-premium-fragrance-collection-set-11",
+      "title": "3-Piece Men's Fragrance Set: Issey Miyake Nuit d’Issey, Prada Luna Rossa Black, Gucci Guilty Pour Homme",
+      "description": "Buy 3-Piece Men's Fragrance Set: Issey Miyake Nuit d’Issey, Prada Luna Rossa Black, Gucci Guilty Pour Homme - Gucci, Prada, Issey Miyake and Bulgari. premium men-fragrances in this 3-for-1 offer with fast delivery in the UK. Authentic perfumes IE the best price.",
+      "description_html": "<div class=\"product-description\">\n                <h3>Premium Fragrance Collection</h3>\n                <p>An exceptional combination of three iconic fragrances at an unprecedented value. This set features premium fragrances from Gucci, Prada, Issey Miyake, Bulgari.</p>\n                <p class=\"mt-4\">Regular Value: £170.00<br>Special Offer: £49.99<br>Total Savings: £120.01 (71% OFF)</p>\n                <p class=\"mt-4\">Each fragrance in this set is a full-size, authentic product, carefully selected to complement each other. Perfect for those who appreciate variety in their fragrance collection or as a luxurious gift.</p>\n            </div>",
+      "sku": "FRAG-0021-183239",
+      "price": {
+        "regular": 49.99,
+        "sale": null,
+        "on_sale": false,
+        "discount_percent": 0,
+        "currency": "GBP"
+      },
+      "category": "Fragrance Sets",
+      "brands": [
+        "Gucci",
+        "Prada",
+        "Issey Miyake",
+        "Bulgari"
+      ],
+      "primary_brand": "Gucci",
+      "tags": [
+        "bulgari",
+        "perfume",
+        "men-fragrances",
+        "uk",
+        "gift",
+        "authentic",
+        "gucci",
+        "premium",
+        "men",
+        "offers",
+        "issey-miyake",
+        "fragrance-set",
+        "prada",
+        "gift-set",
+        "bestseller",
+        "collection"
+      ],
+      "images": [
+        "/productNbg/3-piece-mens-fragrance-set-issey-miyake-nuit-dissey-prada-luna-rossa-black-gucci-guilty-pour-homme.png"
+      ],
+      "is_combo": true,
+      "featured": false,
+      "popularity": 0,
+      "created_at": "2025-09-19T18:32:39.531229",
+      "updated_at": "2025-09-19T18:32:39.531232",
+      "status": "active",
+      "seo": {
+        "title": "3-teiliges premium Duft collection Set 11 | premium Düfte uk",
+        "description": "Buy 3-Piece Men's Fragrance Set: Issey Miyake Nuit d’Issey, Prada Luna Rossa Black, Gucci Guilty Pour Homme - Gucci, Prada, Issey Miyake und Bulgari. premium men-fragrances in this 3-for-1 offer with fast delivery in the UK. Authentic perfumes IE the best price.",
+        "keywords": [
+          "bulgari",
+          "perfume",
+          "men-fragrances",
+          "uk",
+          "gift",
+          "authentic",
+          "gucci",
+          "premium",
+          "men",
+          "offers",
+          "issey-miyake",
+          "fragrance-set",
+          "prada",
+          "gift-set",
+          "bestseller",
+          "collection"
+        ]
+      },
+      "slug": "3-piece-premium-fragrance-collection-set-11",
+      "categories": [
+        "Fragrance Sets"
+      ],
+      "_translation_metadata": {
+        "translated_from": "de",
+        "translated_to": "en",
+        "currency_converted_from": "EUR",
+        "currency_converted_to": "GBP",
+        "conversion_rate": 0.85,
+        "translated_at": "2025-09-19 19:13:09"
+      },
+      "shopify_mapping": {
+        "2": {
+          "product_id": 10187399018088,
+          "variant_id": 10187399018088,
+          "handle": "3-piece-premium-fragrance-collection-set-11",
+          "domain": "sn.theperfumeuk.shop",
+          "store_name": "SOLO NECESSITO (Store 2)",
+          "sku": "FRAG-0021-183239",
+          "title": "3-Piece Men's Fragrance Set: Issey Miyake Nuit d’Issey, Prada Luna Rossa Black, Gucci Guilty Pour Homme",
+          "price": 49.99,
+          "currency": "GBP"
+        },
+        "3": {
+          "product_id": 10252767101215,
+          "handle": "3-piece-premium-fragrance-collection-set-11",
+          "domain": "ae888e.myshopify.com",
+          "store_name": "SADERSTORE (Store 3)",
+          "sku": "FRAG-0021-183239"
+        }
+      }
+    },
+    {
+      "id": "22",
+      "handle": "3-piece-premium-fragrance-collection-set-12",
+      "title": "3-Piece Men's Fragrance Set: Paco Rabanne Pure XS, Givenchy Gentleman, Carolina Herrera Bad Boy",
+      "description": "Buy 3-Piece Men's Fragrance Set: Paco Rabanne Pure XS, Givenchy Gentleman, Carolina Herrera Bad Boy - Paco Rabanne, Givenchy and Carolina Herrera. premium men-fragrances in this 3-for-1 offer with fast delivery in the UK. Authentic perfumes IE the best price.",
+      "description_html": "<div class=\"product-description\">\n                <h3>Premium Fragrance Collection</h3>\n                <p>An exceptional combination of three iconic fragrances at an unprecedented value. This set features premium fragrances from Paco Rabanne, Givenchy, Carolina Herrera.</p>\n                <p class=\"mt-4\">Regular Value: £170.00<br>Special Offer: £49.99<br>Total Savings: £120.01 (71% OFF)</p>\n                <p class=\"mt-4\">Each fragrance in this set is a full-size, authentic product, carefully selected to complement each other. Perfect for those who appreciate variety in their fragrance collection or as a luxurious gift.</p>\n            </div>",
+      "sku": "FRAG-0022-183239",
+      "price": {
+        "regular": 49.99,
+        "sale": null,
+        "on_sale": false,
+        "discount_percent": 0,
+        "currency": "GBP"
+      },
+      "category": "Fragrance Sets",
+      "brands": [
+        "Paco Rabanne",
+        "Givenchy",
+        "Carolina Herrera"
+      ],
+      "primary_brand": "Paco Rabanne",
+      "tags": [
+        "perfume",
+        "men-fragrances",
+        "uk",
+        "gift",
+        "authentic",
+        "carolina-herrera",
+        "premium",
+        "men",
+        "bestseller",
+        "offers",
+        "givenchy",
+        "fragrance-set",
+        "gift-set",
+        "paco-rabanne",
+        "collection"
+      ],
+      "images": [
+        "/productNbg/3-piece-mens-fragrance-set-paco-rabanne-pure-xs-givenchy-gentleman-carolina-herrera-bad-boy.png"
+      ],
+      "is_combo": true,
+      "featured": false,
+      "popularity": 0,
+      "created_at": "2025-09-19T18:32:39.532298",
+      "updated_at": "2025-09-19T18:32:39.532303",
+      "status": "active",
+      "seo": {
+        "title": "3-teiliges premium Duft collection Set 12 | premium Düfte uk",
+        "description": "Buy 3-Piece Men's Fragrance Set: Paco Rabanne Pure XS, Givenchy Gentleman, Carolina Herrera Bad Boy - Paco Rabanne, Givenchy und Carolina Herrera. premium men-fragrances in this 3-for-1 offer with fast delivery in the UK. Authentic perfumes IE the best price.",
+        "keywords": [
+          "perfume",
+          "men-fragrances",
+          "uk",
+          "gift",
+          "authentic",
+          "carolina-herrera",
+          "premium",
+          "men",
+          "bestseller",
+          "offers",
+          "givenchy",
+          "fragrance-set",
+          "gift-set",
+          "paco-rabanne",
+          "collection"
+        ]
+      },
+      "slug": "3-piece-premium-fragrance-collection-set-12",
+      "categories": [
+        "Fragrance Sets"
+      ],
+      "_translation_metadata": {
+        "translated_from": "de",
+        "translated_to": "en",
+        "currency_converted_from": "EUR",
+        "currency_converted_to": "GBP",
+        "conversion_rate": 0.85,
+        "translated_at": "2025-09-19 19:13:09"
+      },
+      "shopify_mapping": {
+        "2": {
+          "product_id": 10187399019016,
+          "variant_id": 10187399019016,
+          "handle": "3-piece-premium-fragrance-collection-set-12",
+          "domain": "sn.theperfumeuk.shop",
+          "store_name": "SOLO NECESSITO (Store 2)",
+          "sku": "FRAG-0022-183239",
+          "title": "3-Piece Men's Fragrance Set: Paco Rabanne Pure XS, Givenchy Gentleman, Carolina Herrera Bad Boy",
+          "price": 49.99,
+          "currency": "GBP"
+        },
+        "3": {
+          "product_id": 10252767166751,
+          "handle": "3-piece-premium-fragrance-collection-set-12",
+          "domain": "ae888e.myshopify.com",
+          "store_name": "SADERSTORE (Store 3)",
+          "sku": "FRAG-0022-183239"
+        }
+      }
+    },
+    {
+      "id": "23",
+      "handle": "3-piece-premium-fragrance-collection-set-13",
+      "title": "3-Piece Women's Fragrance Set: Givenchy L’Interdit, Miss Dior Blooming Bouquet, Prada Candy",
+      "description": "Buy 3-Piece Women's Fragrance Set: Givenchy L’Interdit, Miss Dior Blooming Bouquet, Prada Candy - Dior, Givenchy and Prada. premium men-fragrances in this 3-for-1 offer with fast delivery in the UK. Authentic perfumes IE the best price.",
+      "description_html": "<div class=\"product-description\">\n                <h3>Premium Fragrance Collection</h3>\n                <p>An exceptional combination of three iconic fragrances at an unprecedented value. This set features premium fragrances from Dior, Givenchy, Prada.</p>\n                <p class=\"mt-4\">Regular Value: £170.00<br>Special Offer: £49.99<br>Total Savings: £120.01 (71% OFF)</p>\n                <p class=\"mt-4\">Each fragrance in this set is a full-size, authentic product, carefully selected to complement each other. Perfect for those who appreciate variety in their fragrance collection or as a luxurious gift.</p>\n            </div>",
+      "sku": "FRAG-0023-183239",
+      "price": {
+        "regular": 49.99,
+        "sale": null,
+        "on_sale": false,
+        "discount_percent": 0,
+        "currency": "GBP"
+      },
+      "category": "Fragrance Sets",
+      "brands": [
+        "Dior",
+        "Givenchy",
+        "Prada"
+      ],
+      "primary_brand": "Dior",
+      "tags": [
+        "perfume",
+        "men-fragrances",
+        "uk",
+        "gift",
+        "authentic",
+        "premium",
+        "men",
+        "offers",
+        "Dior",
+        "givenchy",
+        "fragrance-set",
+        "prada",
+        "gift-set",
+        "bestseller",
+        "collection"
+      ],
+      "images": [
+        "/productNbg/3-piece-womens-fragrance-set-givenchy-linterdit-miss-dior-blooming-bouquet-prada-candy.png"
+      ],
+      "is_combo": true,
+      "featured": false,
+      "popularity": 0,
+      "created_at": "2025-09-19T18:32:39.533157",
+      "updated_at": "2025-09-19T18:32:39.533160",
+      "status": "active",
+      "seo": {
+        "title": "3-teiliges premium Duft collection Set 13 | premium Düfte uk",
+        "description": "Buy 3-Piece Women's Fragrance Set: Givenchy L’Interdit, Miss Dior Blooming Bouquet, Prada Candy - Dior, Givenchy und Prada. premium men-fragrances in this 3-for-1 offer with fast delivery in the UK. Authentic perfumes IE the best price.",
+        "keywords": [
+          "perfume",
+          "men-fragrances",
+          "uk",
+          "gift",
+          "authentic",
+          "premium",
+          "men",
+          "offers",
+          "dior",
+          "givenchy",
+          "fragrance-set",
+          "prada",
+          "gift-set",
+          "bestseller",
+          "collection"
+        ]
+      },
+      "slug": "3-piece-premium-fragrance-collection-set-13",
+      "categories": [
+        "Fragrance Sets"
+      ],
+      "_translation_metadata": {
+        "translated_from": "de",
+        "translated_to": "en",
+        "currency_converted_from": "EUR",
+        "currency_converted_to": "GBP",
+        "conversion_rate": 0.85,
+        "translated_at": "2025-09-19 19:13:09"
+      },
+      "shopify_mapping": {
+        "2": {
+          "product_id": 10187399020026,
+          "variant_id": 10187399020026,
+          "handle": "3-piece-premium-fragrance-collection-set-13",
+          "domain": "sn.theperfumeuk.shop",
+          "store_name": "SOLO NECESSITO (Store 2)",
+          "sku": "FRAG-0023-183239",
+          "title": "3-Piece Women's Fragrance Set: Givenchy L’Interdit, Miss Dior Blooming Bouquet, Prada Candy",
+          "price": 49.99,
+          "currency": "GBP"
+        },
+        "3": {
+          "product_id": 10252767199519,
+          "handle": "3-piece-premium-fragrance-collection-set-13",
+          "domain": "ae888e.myshopify.com",
+          "store_name": "SADERSTORE (Store 3)",
+          "sku": "FRAG-0023-183239"
+        }
+      }
+    },
+    {
+      "id": "24",
+      "handle": "3-piece-premium-fragrance-collection-set-14",
+      "title": "3-Piece Women's Fragrance Set: Paco Rabanne Olympea, Jean Paul Gaultier Scandal, Mugler Alien",
+      "description": "Buy 3-Piece Women's Fragrance Set: Paco Rabanne Olympea, Jean Paul Gaultier Scandal, Mugler Alien - Paco Rabanne, Jean Paul Gaultier and Mugler. premium men-fragrances in this 3-for-1 offer with fast delivery in the UK. Authentic perfumes IE the best price.",
+      "description_html": "<div class=\"product-description\">\n                <h3>Premium Fragrance Collection</h3>\n                <p>An exceptional combination of three iconic fragrances at an unprecedented value. This set features premium fragrances from Paco Rabanne, Jean Paul Gaultier, Mugler.</p>\n                <p class=\"mt-4\">Regular Value: £170.00<br>Special Offer: £49.99<br>Total Savings: £120.01 (71% OFF)</p>\n                <p class=\"mt-4\">Each fragrance in this set is a full-size, authentic product, carefully selected to complement each other. Perfect for those who appreciate variety in their fragrance collection or as a luxurious gift.</p>\n            </div>",
+      "sku": "FRAG-0024-183239",
+      "price": {
+        "regular": 49.99,
+        "sale": null,
+        "on_sale": false,
+        "discount_percent": 0,
+        "currency": "GBP"
+      },
+      "category": "Fragrance Sets",
+      "brands": [
+        "Paco Rabanne",
+        "Jean Paul Gaultier",
+        "Mugler"
+      ],
+      "primary_brand": "Paco Rabanne",
+      "tags": [
+        "perfume",
+        "men-fragrances",
+        "uk",
+        "gift",
+        "authentic",
+        "premium",
+        "men",
+        "bestseller",
+        "offers",
+        "mugler",
+        "fragrance-set",
+        "gift-set",
+        "paco-rabanne",
+        "collection",
+        "jean-paul-gaultier"
+      ],
+      "images": [
+        "/productNbg/3-piece-womens-fragrance-set-paco-rabanne-olympea-jean-paul-gaultier-scandal-mugler-alien.png"
+      ],
+      "is_combo": true,
+      "featured": false,
+      "popularity": 0,
+      "created_at": "2025-09-19T18:32:39.534092",
+      "updated_at": "2025-09-19T18:32:39.534095",
+      "status": "active",
+      "seo": {
+        "title": "3-teiliges premium Duft collection Set 14 | premium Düfte uk",
+        "description": "Buy 3-Piece Women's Fragrance Set: Paco Rabanne Olympea, Jean Paul Gaultier Scandal, Mugler Alien - Paco Rabanne, Jean Paul Gaultier und Mugler. premium men-fragrances in this 3-for-1 offer with fast delivery in the UK. Authentic perfumes IE the best price.",
+        "keywords": [
+          "perfume",
+          "men-fragrances",
+          "uk",
+          "gift",
+          "authentic",
+          "premium",
+          "men",
+          "bestseller",
+          "offers",
+          "mugler",
+          "fragrance-set",
+          "gift-set",
+          "paco-rabanne",
+          "collection",
+          "jean-paul-gaultier"
+        ]
+      },
+      "slug": "3-piece-premium-fragrance-collection-set-14",
+      "categories": [
+        "Fragrance Sets"
+      ],
+      "_translation_metadata": {
+        "translated_from": "de",
+        "translated_to": "en",
+        "currency_converted_from": "EUR",
+        "currency_converted_to": "GBP",
+        "conversion_rate": 0.85,
+        "translated_at": "2025-09-19 19:13:09"
+      },
+      "shopify_mapping": {
+        "2": {
+          "product_id": 10187399021082,
+          "variant_id": 10187399021082,
+          "handle": "3-piece-premium-fragrance-collection-set-14",
+          "domain": "sn.theperfumeuk.shop",
+          "store_name": "SOLO NECESSITO (Store 2)",
+          "sku": "FRAG-0024-183239",
+          "title": "3-Piece Women's Fragrance Set: Paco Rabanne Olympea, Jean Paul Gaultier Scandal, Mugler Alien",
+          "price": 49.99,
+          "currency": "GBP"
+        },
+        "3": {
+          "product_id": 10252767232287,
+          "handle": "3-piece-premium-fragrance-collection-set-14",
+          "domain": "ae888e.myshopify.com",
+          "store_name": "SADERSTORE (Store 3)",
+          "sku": "FRAG-0024-183239"
+        }
+      }
+    },
+    {
+      "id": "25",
+      "handle": "3-piece-premium-fragrance-collection-set-15",
+      "title": "3-Piece Women's Fragrance Set: Yves Saint Laurent Black Opium, Gucci Flora Gorgeous Gardenia, Valentino Donna Born in Roma",
+      "description": "Buy 3-Piece Women's Fragrance Set: Yves Saint Laurent Black Opium, Gucci Flora Gorgeous Gardenia, Valentino Donna Born in Roma - Yves Saint Laurent, Valentino, Gucci and Bulgari. premium men-fragrances in this 3-for-1 offer with fast delivery in the UK. Authentic perfumes IE the best price.",
+      "description_html": "<div class=\"product-description\">\n                <h3>Premium Fragrance Collection</h3>\n                <p>An exceptional combination of three iconic fragrances at an unprecedented value. This set features premium fragrances from Yves Saint Laurent, Valentino, Gucci, Bulgari.</p>\n                <p class=\"mt-4\">Regular Value: £170.00<br>Special Offer: £49.99<br>Total Savings: £120.01 (71% OFF)</p>\n                <p class=\"mt-4\">Each fragrance in this set is a full-size, authentic product, carefully selected to complement each other. Perfect for those who appreciate variety in their fragrance collection or as a luxurious gift.</p>\n            </div>",
+      "sku": "FRAG-0025-183239",
+      "price": {
+        "regular": 49.99,
+        "sale": null,
+        "on_sale": false,
+        "discount_percent": 0,
+        "currency": "GBP"
+      },
+      "category": "Fragrance Sets",
+      "brands": [
+        "Yves Saint Laurent",
+        "Valentino",
+        "Gucci",
+        "Bulgari"
+      ],
+      "primary_brand": "Yves Saint Laurent",
+      "tags": [
+        "bulgari",
+        "perfume",
+        "men-fragrances",
+        "uk",
+        "gift",
+        "authentic",
+        "gucci",
+        "premium",
+        "men",
+        "gift-set",
+        "bestseller",
+        "offers",
+        "fragrance-set",
+        "valentino",
+        "yves-saint-laurent",
+        "collection"
+      ],
+      "images": [
+        "/productNbg/3-piece-womens-fragrance-set-yves-saint-laurent-black-opium-gucci-flora-gorgeous-gardenia-valentino-donna-born-in-roma.png"
+      ],
+      "is_combo": true,
+      "featured": false,
+      "popularity": 0,
+      "created_at": "2025-09-19T18:32:39.535156",
+      "updated_at": "2025-09-19T18:32:39.535159",
+      "status": "active",
+      "seo": {
+        "title": "3-teiliges premium Duft collection Set 15 | premium Düfte uk",
+        "description": "Buy 3-Piece Women's Fragrance Set: Yves Saint Laurent Black Opium, Gucci Flora Gorgeous Gardenia, Valentino Donna Born in Roma - Yves Saint Laurent, Valentino, Gucci und Bulgari. premium men-fragrances in this 3-for-1 offer with fast delivery in the UK. Authentic perfumes IE the best price.",
+        "keywords": [
+          "bulgari",
+          "perfume",
+          "men-fragrances",
+          "uk",
+          "gift",
+          "authentic",
+          "gucci",
+          "premium",
+          "men",
+          "gift-set",
+          "bestseller",
+          "offers",
+          "fragrance-set",
+          "valentino",
+          "yves-saint-laurent",
+          "collection"
+        ]
+      },
+      "slug": "3-piece-premium-fragrance-collection-set-15",
+      "categories": [
+        "Fragrance Sets"
+      ],
+      "_translation_metadata": {
+        "translated_from": "de",
+        "translated_to": "en",
+        "currency_converted_from": "EUR",
+        "currency_converted_to": "GBP",
+        "conversion_rate": 0.85,
+        "translated_at": "2025-09-19 19:13:09"
+      },
+      "shopify_mapping": {
+        "2": {
+          "product_id": 10187399022024,
+          "variant_id": 10187399022024,
+          "handle": "3-piece-premium-fragrance-collection-set-15",
+          "domain": "sn.theperfumeuk.shop",
+          "store_name": "SOLO NECESSITO (Store 2)",
+          "sku": "FRAG-0025-183239",
+          "title": "3-Piece Women's Fragrance Set: Yves Saint Laurent Black Opium, Gucci Flora Gorgeous Gardenia, Valentino Donna Born in Roma",
+          "price": 49.99,
+          "currency": "GBP"
+        },
+        "3": {
+          "product_id": 10252767265055,
+          "handle": "3-piece-premium-fragrance-collection-set-15",
+          "domain": "ae888e.myshopify.com",
+          "store_name": "SADERSTORE (Store 3)",
+          "sku": "FRAG-0025-183239"
+        }
+      }
+    },
+    {
+      "id": "26",
+      "handle": "3-piece-premium-fragrance-collection-set-16",
+      "title": "3-Piece Women's Fragrance Set: Mugler Angel, Chanel No. 5, Gucci Flora Gorgeous Gardenia",
+      "description": "Buy 3-Piece Women's Fragrance Set: Mugler Angel, Chanel No. 5, Gucci Flora Gorgeous Gardenia - Chanel, Gucci and Mugler. premium men-fragrances in this 3-for-1 offer with fast delivery in the UK. Authentic perfumes IE the best price.",
+      "description_html": "<div class=\"product-description\">\n                <h3>Premium Fragrance Collection</h3>\n                <p>An exceptional combination of three iconic fragrances at an unprecedented value. This set features premium fragrances from Chanel, Gucci, Mugler.</p>\n                <p class=\"mt-4\">Regular Value: £170.00<br>Special Offer: £49.99<br>Total Savings: £120.01 (71% OFF)</p>\n                <p class=\"mt-4\">Each fragrance in this set is a full-size, authentic product, carefully selected to complement each other. Perfect for those who appreciate variety in their fragrance collection or as a luxurious gift.</p>\n            </div>",
+      "sku": "FRAG-0026-183239",
+      "price": {
+        "regular": 49.99,
+        "sale": null,
+        "on_sale": false,
+        "discount_percent": 0,
+        "currency": "GBP"
+      },
+      "category": "Fragrance Sets",
+      "brands": [
+        "Chanel",
+        "Gucci",
+        "Mugler"
+      ],
+      "primary_brand": "Chanel",
+      "tags": [
+        "perfume",
+        "men-fragrances",
+        "uk",
+        "gift",
+        "authentic",
+        "gucci",
+        "premium",
+        "men",
+        "offers",
+        "mugler",
+        "Chanel",
+        "fragrance-set",
+        "gift-set",
+        "bestseller",
+        "collection"
+      ],
+      "images": [
+        "/productNbg/3-piece-womens-fragrance-set-mugler-angel-chanel-no-5-gucci-flora-gorgeous-gardenia.png"
+      ],
+      "is_combo": true,
+      "featured": false,
+      "popularity": 0,
+      "created_at": "2025-09-19T18:32:39.535997",
+      "updated_at": "2025-09-19T18:32:39.536000",
+      "status": "active",
+      "seo": {
+        "title": "3-teiliges premium Duft collection Set 16 | premium Düfte uk",
+        "description": "Buy 3-Piece Women's Fragrance Set: Mugler Angel, Chanel No. 5, Gucci Flora Gorgeous Gardenia - Chanel, Gucci und Mugler. premium men-fragrances in this 3-for-1 offer with fast delivery in the UK. Authentic perfumes IE the best price.",
+        "keywords": [
+          "perfume",
+          "men-fragrances",
+          "uk",
+          "gift",
+          "authentic",
+          "gucci",
+          "premium",
+          "men",
+          "offers",
+          "mugler",
+          "chanel",
+          "fragrance-set",
+          "gift-set",
+          "bestseller",
+          "collection"
+        ]
+      },
+      "slug": "3-piece-premium-fragrance-collection-set-16",
+      "categories": [
+        "Fragrance Sets"
+      ],
+      "_translation_metadata": {
+        "translated_from": "de",
+        "translated_to": "en",
+        "currency_converted_from": "EUR",
+        "currency_converted_to": "GBP",
+        "conversion_rate": 0.85,
+        "translated_at": "2025-09-19 19:13:09"
+      },
+      "shopify_mapping": {
+        "2": {
+          "product_id": 10187399023036,
+          "variant_id": 10187399023036,
+          "handle": "3-piece-premium-fragrance-collection-set-16",
+          "domain": "sn.theperfumeuk.shop",
+          "store_name": "SOLO NECESSITO (Store 2)",
+          "sku": "FRAG-0026-183239",
+          "title": "3-Piece Women's Fragrance Set: Mugler Angel, Chanel No. 5, Gucci Flora Gorgeous Gardenia",
+          "price": 49.99,
+          "currency": "GBP"
+        },
+        "3": {
+          "product_id": 10252767330591,
+          "handle": "3-piece-premium-fragrance-collection-set-16",
+          "domain": "ae888e.myshopify.com",
+          "store_name": "SADERSTORE (Store 3)",
+          "sku": "FRAG-0026-183239"
+        }
+      }
+    },
+    {
+      "id": "27",
+      "handle": "3-piece-premium-fragrance-collection-set-17",
+      "title": "3-Piece Women's Fragrance Set: Giorgio Armani Sí, Lancôme La Nuit Trésor, Narciso Rodriguez For Her",
+      "description": "Buy 3-Piece Women's Fragrance Set: Giorgio Armani Sí, Lancôme La Nuit Trésor, Narciso Rodriguez For Her - Giorgio Armani, Narciso Rodriguez and Lancôme. premium men-fragrances in this 3-for-1 offer with fast delivery in the UK. Authentic perfumes IE the best price.",
+      "description_html": "<div class=\"product-description\">\n                <h3>Premium Fragrance Collection</h3>\n                <p>An exceptional combination of three iconic fragrances at an unprecedented value. This set features premium fragrances from Giorgio Armani, Narciso Rodriguez, Lancôme.</p>\n                <p class=\"mt-4\">Regular Value: £170.00<br>Special Offer: £49.99<br>Total Savings: £120.01 (71% OFF)</p>\n                <p class=\"mt-4\">Each fragrance in this set is a full-size, authentic product, carefully selected to complement each other. Perfect for those who appreciate variety in their fragrance collection or as a luxurious gift.</p>\n            </div>",
+      "sku": "FRAG-0027-183239",
+      "price": {
+        "regular": 49.99,
+        "sale": null,
+        "on_sale": false,
+        "discount_percent": 0,
+        "currency": "GBP"
+      },
+      "category": "Fragrance Sets",
+      "brands": [
+        "Giorgio Armani",
+        "Narciso Rodriguez",
+        "Lancôme"
+      ],
+      "primary_brand": "Giorgio Armani",
+      "tags": [
+        "perfume",
+        "men-fragrances",
+        "uk",
+        "gift",
+        "narciso-rodriguez",
+        "authentic",
+        "giorgio-armani",
+        "premium",
+        "men",
+        "lancôme",
+        "offers",
+        "fragrance-set",
+        "gift-set",
+        "bestseller",
+        "collection"
+      ],
+      "images": [
+        "/productNbg/3-piece-womens-fragrance-set-giorgio-armani-s-lancme-la-nuit-trsor-narciso-rodriguez-for-her.png"
+      ],
+      "is_combo": true,
+      "featured": false,
+      "popularity": 0,
+      "created_at": "2025-09-19T18:32:39.536826",
+      "updated_at": "2025-09-19T18:32:39.536829",
+      "status": "active",
+      "seo": {
+        "title": "3-teiliges premium Duft collection Set 17 | premium Düfte uk",
+        "description": "Buy 3-Piece Women's Fragrance Set: Giorgio Armani Sí, Lancôme La Nuit Trésor, Narciso Rodriguez For Her - Giorgio Armani, Narciso Rodriguez und Lancôme. premium men-fragrances in this 3-for-1 offer with fast delivery in the UK. Authentic perfumes IE the best price.",
+        "keywords": [
+          "perfume",
+          "men-fragrances",
+          "uk",
+          "gift",
+          "narciso-rodriguez",
+          "authentic",
+          "giorgio-armani",
+          "premium",
+          "men",
+          "lancôme",
+          "offers",
+          "fragrance-set",
+          "gift-set",
+          "bestseller",
+          "collection"
+        ]
+      },
+      "slug": "3-piece-premium-fragrance-collection-set-17",
+      "categories": [
+        "Fragrance Sets"
+      ],
+      "_translation_metadata": {
+        "translated_from": "de",
+        "translated_to": "en",
+        "currency_converted_from": "EUR",
+        "currency_converted_to": "GBP",
+        "conversion_rate": 0.85,
+        "translated_at": "2025-09-19 19:13:09"
+      },
+      "shopify_mapping": {
+        "2": {
+          "product_id": 10187399024020,
+          "variant_id": 10187399024020,
+          "handle": "3-piece-premium-fragrance-collection-set-17",
+          "domain": "sn.theperfumeuk.shop",
+          "store_name": "SOLO NECESSITO (Store 2)",
+          "sku": "FRAG-0027-183239",
+          "title": "3-Piece Women's Fragrance Set: Giorgio Armani Sí, Lancôme La Nuit Trésor, Narciso Rodriguez For Her",
+          "price": 49.99,
+          "currency": "GBP"
+        },
+        "3": {
+          "product_id": 10252767363359,
+          "handle": "3-piece-premium-fragrance-collection-set-17",
+          "domain": "ae888e.myshopify.com",
+          "store_name": "SADERSTORE (Store 3)",
+          "sku": "FRAG-0027-183239"
+        }
+      }
+    },
+    {
+      "id": "28",
+      "handle": "3-piece-premium-fragrance-collection-set-18",
+      "title": "3-Piece Women's Fragrance Set: Versace Pour Femme, Givenchy Amarige, Yves Saint Laurent Mon Paris",
+      "description": "Buy 3-Piece Women's Fragrance Set: Versace Pour Femme, Givenchy Amarige, Yves Saint Laurent Mon Paris - Yves Saint Laurent, Versace and Givenchy. premium men-fragrances in this 3-for-1 offer with fast delivery in the UK. Authentic perfumes IE the best price.",
+      "description_html": "<div class=\"product-description\">\n                <h3>Premium Fragrance Collection</h3>\n                <p>An exceptional combination of three iconic fragrances at an unprecedented value. This set features premium fragrances from Yves Saint Laurent, Versace, Givenchy.</p>\n                <p class=\"mt-4\">Regular Value: £170.00<br>Special Offer: £49.99<br>Total Savings: £120.01 (71% OFF)</p>\n                <p class=\"mt-4\">Each fragrance in this set is a full-size, authentic product, carefully selected to complement each other. Perfect for those who appreciate variety in their fragrance collection or as a luxurious gift.</p>\n            </div>",
+      "sku": "FRAG-0028-183239",
+      "price": {
+        "regular": 49.99,
+        "sale": null,
+        "on_sale": false,
+        "discount_percent": 0,
+        "currency": "GBP"
+      },
+      "category": "Fragrance Sets",
+      "brands": [
+        "Yves Saint Laurent",
+        "Versace",
+        "Givenchy"
+      ],
+      "primary_brand": "Yves Saint Laurent",
+      "tags": [
+        "perfume",
+        "men-fragrances",
+        "uk",
+        "gift",
+        "authentic",
+        "premium",
+        "men",
+        "bestseller",
+        "yves-saint-laurent",
+        "offers",
+        "givenchy",
+        "fragrance-set",
+        "gift-set",
+        "versace",
+        "collection"
+      ],
+      "images": [
+        "/productNbg/3-piece-womens-fragrance-set-versace-pour-femme-givenchy-amarige-yves-saint-laurent-mon-paris.png"
+      ],
+      "is_combo": true,
+      "featured": false,
+      "popularity": 0,
+      "created_at": "2025-09-19T18:32:39.537596",
+      "updated_at": "2025-09-19T18:32:39.537599",
+      "status": "active",
+      "seo": {
+        "title": "3-teiliges premium Duft collection Set 18 | premium Düfte uk",
+        "description": "Buy 3-Piece Women's Fragrance Set: Versace Pour Femme, Givenchy Amarige, Yves Saint Laurent Mon Paris - Yves Saint Laurent, Versace und Givenchy. premium men-fragrances in this 3-for-1 offer with fast delivery in the UK. Authentic perfumes IE the best price.",
+        "keywords": [
+          "perfume",
+          "men-fragrances",
+          "uk",
+          "gift",
+          "authentic",
+          "premium",
+          "men",
+          "bestseller",
+          "yves-saint-laurent",
+          "offers",
+          "givenchy",
+          "fragrance-set",
+          "gift-set",
+          "versace",
+          "collection"
+        ]
+      },
+      "slug": "3-piece-premium-fragrance-collection-set-18",
+      "categories": [
+        "Fragrance Sets"
+      ],
+      "_translation_metadata": {
+        "translated_from": "de",
+        "translated_to": "en",
+        "currency_converted_from": "EUR",
+        "currency_converted_to": "GBP",
+        "conversion_rate": 0.85,
+        "translated_at": "2025-09-19 19:13:09"
+      },
+      "shopify_mapping": {
+        "2": {
+          "product_id": 10187399025087,
+          "variant_id": 10187399025087,
+          "handle": "3-piece-premium-fragrance-collection-set-18",
+          "domain": "sn.theperfumeuk.shop",
+          "store_name": "SOLO NECESSITO (Store 2)",
+          "sku": "FRAG-0028-183239",
+          "title": "3-Piece Women's Fragrance Set: Versace Pour Femme, Givenchy Amarige, Yves Saint Laurent Mon Paris",
+          "price": 49.99,
+          "currency": "GBP"
+        },
+        "3": {
+          "product_id": 10252767428895,
+          "handle": "3-piece-premium-fragrance-collection-set-18",
+          "domain": "ae888e.myshopify.com",
+          "store_name": "SADERSTORE (Store 3)",
+          "sku": "FRAG-0028-183239"
+        }
+      }
+    },
+    {
+      "id": "29",
+      "handle": "3-piece-premium-fragrance-collection-set-19",
+      "title": "3-Piece Women's Fragrance Set: Marc Jacobs Perfect, Marc Jacobs Daisy Eau So Fresh, Dolce & Gabbana The Only One",
+      "description": "Buy 3-Piece Women's Fragrance Set: Marc Jacobs Perfect, Marc Jacobs Daisy Eau So Fresh, Dolce & Gabbana The Only One - Dolce & Gabbana and Marc Jacobs. premium men-fragrances in this 3-for-1 offer with fast delivery in the UK. Authentic perfumes IE the best price.",
+      "description_html": "<div class=\"product-description\">\n                <h3>Premium Fragrance Collection</h3>\n                <p>An exceptional combination of three iconic fragrances at an unprecedented value. This set features premium fragrances from Dolce & Gabbana, Marc Jacobs.</p>\n                <p class=\"mt-4\">Regular Value: £170.00<br>Special Offer: £49.99<br>Total Savings: £120.01 (71% OFF)</p>\n                <p class=\"mt-4\">Each fragrance in this set is a full-size, authentic product, carefully selected to complement each other. Perfect for those who appreciate variety in their fragrance collection or as a luxurious gift.</p>\n            </div>",
+      "sku": "FRAG-0029-183239",
+      "price": {
+        "regular": 49.99,
+        "sale": null,
+        "on_sale": false,
+        "discount_percent": 0,
+        "currency": "GBP"
+      },
+      "category": "Fragrance Sets",
+      "brands": [
+        "Dolce & Gabbana",
+        "Marc Jacobs"
+      ],
+      "primary_brand": "Dolce & Gabbana",
+      "tags": [
+        "perfume",
+        "men-fragrances",
+        "uk",
+        "gift",
+        "authentic",
+        "premium",
+        "men",
+        "offers",
+        "dolce--gabbana",
+        "fragrance-set",
+        "gift-set",
+        "bestseller",
+        "collection",
+        "marc-jacobs"
+      ],
+      "images": [
+        "/productNbg/3-piece-womens-fragrance-set-marc-jacobs-perfect-marc-jacobs-daisy-eau-so-fresh-dolce-gabbana-the-only-one.png"
+      ],
+      "is_combo": true,
+      "featured": false,
+      "popularity": 0,
+      "created_at": "2025-09-19T18:32:39.538398",
+      "updated_at": "2025-09-19T18:32:39.538400",
+      "status": "active",
+      "seo": {
+        "title": "3-teiliges premium Duft collection Set 19 | premium Düfte uk",
+        "description": "Buy 3-Piece Women's Fragrance Set: Marc Jacobs Perfect, Marc Jacobs Daisy Eau So Fresh, Dolce & Gabbana The Only One - Dolce & Gabbana und Marc Jacobs. premium men-fragrances in this 3-for-1 offer with fast delivery in the UK. Authentic perfumes IE the best price.",
+        "keywords": [
+          "perfume",
+          "men-fragrances",
+          "uk",
+          "gift",
+          "authentic",
+          "premium",
+          "men",
+          "offers",
+          "dolce--gabbana",
+          "fragrance-set",
+          "gift-set",
+          "bestseller",
+          "collection",
+          "marc-jacobs"
+        ]
+      },
+      "slug": "3-piece-premium-fragrance-collection-set-19",
+      "categories": [
+        "Fragrance Sets"
+      ],
+      "_translation_metadata": {
+        "translated_from": "de",
+        "translated_to": "en",
+        "currency_converted_from": "EUR",
+        "currency_converted_to": "GBP",
+        "conversion_rate": 0.85,
+        "translated_at": "2025-09-19 19:13:09"
+      },
+      "shopify_mapping": {
+        "2": {
+          "product_id": 10187399026053,
+          "variant_id": 10187399026053,
+          "handle": "3-piece-premium-fragrance-collection-set-19",
+          "domain": "sn.theperfumeuk.shop",
+          "store_name": "SOLO NECESSITO (Store 2)",
+          "sku": "FRAG-0029-183239",
+          "title": "3-Piece Women's Fragrance Set: Marc Jacobs Perfect, Marc Jacobs Daisy Eau So Fresh, Dolce & Gabbana The Only One",
+          "price": 49.99,
+          "currency": "GBP"
+        },
+        "3": {
+          "product_id": 10252767461663,
+          "handle": "3-piece-premium-fragrance-collection-set-19",
+          "domain": "ae888e.myshopify.com",
+          "store_name": "SADERSTORE (Store 3)",
+          "sku": "FRAG-0029-183239"
+        }
+      }
+    },
+    {
+      "id": "30",
+      "handle": "3-piece-premium-fragrance-collection-set-2",
+      "title": "3-Piece Men's Fragrance Set: Armaf Club GB Nuit Intense Man, Givenchy Gentleman, Carolina Herrera Bad Boy",
+      "description": "Buy 3-Piece Men's Fragrance Set: Armaf Club GB Nuit Intense Man, Givenchy Gentleman, Carolina Herrera Bad Boy - Givenchy, Carolina Herrera and Armaf. premium men-fragrances in this 3-for-1 offer with fast delivery in the UK. Authentic perfumes IE the best price.",
+      "description_html": "<div class=\"product-description\">\n                <h3>Premium Fragrance Collection</h3>\n                <p>An exceptional combination of three iconic fragrances at an unprecedented value. This set features premium fragrances from Givenchy, Carolina Herrera, Armaf.</p>\n                <p class=\"mt-4\">Regular Value: £170.00<br>Special Offer: £49.99<br>Total Savings: £120.01 (71% OFF)</p>\n                <p class=\"mt-4\">Each fragrance in this set is a full-size, authentic product, carefully selected to complement each other. Perfect for those who appreciate variety in their fragrance collection or as a luxurious gift.</p>\n            </div>",
+      "sku": "FRAG-0030-183239",
+      "price": {
+        "regular": 49.99,
+        "sale": null,
+        "on_sale": false,
+        "discount_percent": 0,
+        "currency": "GBP"
+      },
+      "category": "Fragrance Sets",
+      "brands": [
+        "Givenchy",
+        "Carolina Herrera",
+        "Armaf"
+      ],
+      "primary_brand": "Givenchy",
+      "tags": [
+        "perfume",
+        "men-fragrances",
+        "uk",
+        "gift",
+        "authentic",
+        "carolina-herrera",
+        "premium",
+        "men",
+        "offers",
+        "givenchy",
+        "fragrance-set",
+        "gift-set",
+        "bestseller",
+        "collection",
+        "armaf"
+      ],
+      "images": [
+        "/productNbg/3-piece-mens-fragrance-set-armaf-club-de-nuit-intense-man-givenchy-gentleman-carolina-herrera-bad-boy.png"
+      ],
+      "is_combo": true,
+      "featured": false,
+      "popularity": 0,
+      "created_at": "2025-09-19T18:32:39.539290",
+      "updated_at": "2025-09-19T18:32:39.539293",
+      "status": "active",
+      "seo": {
+        "title": "3-teiliges premium Duft collection Set 2 | premium Düfte uk",
+        "description": "Buy 3-Piece Men's Fragrance Set: Armaf Club GB Nuit Intense Man, Givenchy Gentleman, Carolina Herrera Bad Boy - Givenchy, Carolina Herrera und Armaf. premium men-fragrances in this 3-for-1 offer with fast delivery in the UK. Authentic perfumes IE the best price.",
+        "keywords": [
+          "perfume",
+          "men-fragrances",
+          "uk",
+          "gift",
+          "authentic",
+          "carolina-herrera",
+          "premium",
+          "men",
+          "offers",
+          "givenchy",
+          "fragrance-set",
+          "gift-set",
+          "bestseller",
+          "collection",
+          "armaf"
+        ]
+      },
+      "slug": "3-piece-premium-fragrance-collection-set-2",
+      "categories": [
+        "Fragrance Sets"
+      ],
+      "_translation_metadata": {
+        "translated_from": "de",
+        "translated_to": "en",
+        "currency_converted_from": "EUR",
+        "currency_converted_to": "GBP",
+        "conversion_rate": 0.85,
+        "translated_at": "2025-09-19 19:13:09"
+      },
+      "shopify_mapping": {
+        "2": {
+          "product_id": 10187399027083,
+          "variant_id": 10187399027083,
+          "handle": "3-piece-premium-fragrance-collection-set-2",
+          "domain": "sn.theperfumeuk.shop",
+          "store_name": "SOLO NECESSITO (Store 2)",
+          "sku": "FRAG-0030-183239",
+          "title": "3-Piece Men's Fragrance Set: Armaf Club GB Nuit Intense Man, Givenchy Gentleman, Carolina Herrera Bad Boy",
+          "price": 49.99,
+          "currency": "GBP"
+        },
+        "3": {
+          "product_id": 10252767494431,
+          "handle": "3-piece-premium-fragrance-collection-set-2",
+          "domain": "ae888e.myshopify.com",
+          "store_name": "SADERSTORE (Store 3)",
+          "sku": "FRAG-0030-183239"
+        }
+      }
+    },
+    {
+      "id": "31",
+      "handle": "3-piece-premium-fragrance-collection-set-20",
+      "title": "3-Piece Women's Fragrance Set: Laboratorio Olfattivo, Creed Love in White, Byredo Rose of No Man’s Land",
+      "description": "Buy 3-Piece Women's Fragrance Set: Laboratorio Olfattivo, Creed Love in White, Byredo Rose of No Man’s Land - Creed, Byredo and Laboratorio Olfattivo. premium men-fragrances in this 3-for-1 offer with fast delivery in the UK. Authentic perfumes IE the best price.",
+      "description_html": "<div class=\"product-description\">\n                <h3>Premium Fragrance Collection</h3>\n                <p>An exceptional combination of three iconic fragrances at an unprecedented value. This set features premium fragrances from Creed, Byredo, Laboratorio Olfattivo.</p>\n                <p class=\"mt-4\">Regular Value: £170.00<br>Special Offer: £49.99<br>Total Savings: £120.01 (71% OFF)</p>\n                <p class=\"mt-4\">Each fragrance in this set is a full-size, authentic product, carefully selected to complement each other. Perfect for those who appreciate variety in their fragrance collection or as a luxurious gift.</p>\n            </div>",
+      "sku": "FRAG-0031-183239",
+      "price": {
+        "regular": 49.99,
+        "sale": null,
+        "on_sale": false,
+        "discount_percent": 0,
+        "currency": "GBP"
+      },
+      "category": "Fragrance Sets",
+      "brands": [
+        "Creed",
+        "Byredo",
+        "Laboratorio Olfattivo"
+      ],
+      "primary_brand": "Creed",
+      "tags": [
+        "perfume",
+        "men-fragrances",
+        "uk",
+        "gift",
+        "authentic",
+        "premium",
+        "men",
+        "offers",
+        "fragrance-set",
+        "Creed",
+        "gift-set",
+        "byredo",
+        "bestseller",
+        "collection",
+        "laboratorio-olfattivo"
+      ],
+      "images": [
+        "/productNbg/3-piece-womens-fragrance-set-laboratorio-olfattivo-creed-love-in-white-byredo-rose-of-no-mans-land.png"
+      ],
+      "is_combo": true,
+      "featured": false,
+      "popularity": 0,
+      "created_at": "2025-09-19T18:32:39.540145",
+      "updated_at": "2025-09-19T18:32:39.540149",
+      "status": "active",
+      "seo": {
+        "title": "3-teiliges premium Duft collection Set 20 | premium Düfte uk",
+        "description": "Buy 3-Piece Women's Fragrance Set: Laboratorio Olfattivo, Creed Love in White, Byredo Rose of No Man’s Land - Creed, Byredo und Laboratorio Olfattivo. premium men-fragrances in this 3-for-1 offer with fast delivery in the UK. Authentic perfumes IE the best price.",
+        "keywords": [
+          "perfume",
+          "men-fragrances",
+          "uk",
+          "gift",
+          "authentic",
+          "premium",
+          "men",
+          "offers",
+          "fragrance-set",
+          "creed",
+          "gift-set",
+          "byredo",
+          "bestseller",
+          "collection",
+          "laboratorio-olfattivo"
+        ]
+      },
+      "slug": "3-piece-premium-fragrance-collection-set-20",
+      "categories": [
+        "Fragrance Sets"
+      ],
+      "_translation_metadata": {
+        "translated_from": "de",
+        "translated_to": "en",
+        "currency_converted_from": "EUR",
+        "currency_converted_to": "GBP",
+        "conversion_rate": 0.85,
+        "translated_at": "2025-09-19 19:13:09"
+      },
+      "shopify_mapping": {
+        "2": {
+          "product_id": 10187399028091,
+          "variant_id": 10187399028091,
+          "handle": "3-piece-premium-fragrance-collection-set-20",
+          "domain": "sn.theperfumeuk.shop",
+          "store_name": "SOLO NECESSITO (Store 2)",
+          "sku": "FRAG-0031-183239",
+          "title": "3-Piece Women's Fragrance Set: Laboratorio Olfattivo, Creed Love in White, Byredo Rose of No Man’s Land",
+          "price": 49.99,
+          "currency": "GBP"
+        },
+        "3": {
+          "product_id": 10252767527199,
+          "handle": "3-piece-premium-fragrance-collection-set-20",
+          "domain": "ae888e.myshopify.com",
+          "store_name": "SADERSTORE (Store 3)",
+          "sku": "FRAG-0031-183239"
+        }
+      }
+    },
+    {
+      "id": "32",
+      "handle": "3-piece-premium-fragrance-collection-set-21",
+      "title": "3-Piece Women's Fragrance Set: Frederic Malle Portrait of a Lady, Creed Love in White, Kilian Angels’ Share",
+      "description": "Buy 3-Piece Women's Fragrance Set: Frederic Malle Portrait of a Lady, Creed Love in White, Kilian Angels’ Share - Creed, Kilian, Frederic Malle and Mugler. premium men-fragrances in this 3-for-1 offer with fast delivery in the UK. Authentic perfumes IE the best price.",
+      "description_html": "<div class=\"product-description\">\n                <h3>Premium Fragrance Collection</h3>\n                <p>An exceptional combination of three iconic fragrances at an unprecedented value. This set features premium fragrances from Creed, Kilian, Frederic Malle, Mugler.</p>\n                <p class=\"mt-4\">Regular Value: £170.00<br>Special Offer: £49.99<br>Total Savings: £120.01 (71% OFF)</p>\n                <p class=\"mt-4\">Each fragrance in this set is a full-size, authentic product, carefully selected to complement each other. Perfect for those who appreciate variety in their fragrance collection or as a luxurious gift.</p>\n            </div>",
+      "sku": "FRAG-0032-183239",
+      "price": {
+        "regular": 49.99,
+        "sale": null,
+        "on_sale": false,
+        "discount_percent": 0,
+        "currency": "GBP"
+      },
+      "category": "Fragrance Sets",
+      "brands": [
+        "Creed",
+        "Kilian",
+        "Frederic Malle",
+        "Mugler"
+      ],
+      "primary_brand": "Creed",
+      "tags": [
+        "perfume",
+        "frederic-malle",
+        "men-fragrances",
+        "uk",
+        "gift",
+        "authentic",
+        "kilian",
+        "premium",
+        "men",
+        "offers",
+        "mugler",
+        "fragrance-set",
+        "Creed",
+        "gift-set",
+        "bestseller",
+        "collection"
+      ],
+      "images": [
+        "/productNbg/3-piece-womens-fragrance-set-frederic-malle-portrait-of-a-lady-creed-love-in-white-kilian-angels-share.png"
+      ],
+      "is_combo": true,
+      "featured": false,
+      "popularity": 0,
+      "created_at": "2025-09-19T18:32:39.541016",
+      "updated_at": "2025-09-19T18:32:39.541019",
+      "status": "active",
+      "seo": {
+        "title": "3-teiliges premium Duft collection Set 21 | premium Düfte uk",
+        "description": "Buy 3-Piece Women's Fragrance Set: Frederic Malle Portrait of a Lady, Creed Love in White, Kilian Angels’ Share - Creed, Kilian, Frederic Malle und Mugler. premium men-fragrances in this 3-for-1 offer with fast delivery in the UK. Authentic perfumes IE the best price.",
+        "keywords": [
+          "perfume",
+          "frederic-malle",
+          "men-fragrances",
+          "uk",
+          "gift",
+          "authentic",
+          "kilian",
+          "premium",
+          "men",
+          "offers",
+          "mugler",
+          "fragrance-set",
+          "creed",
+          "gift-set",
+          "bestseller",
+          "collection"
+        ]
+      },
+      "slug": "3-piece-premium-fragrance-collection-set-21",
+      "categories": [
+        "Fragrance Sets"
+      ],
+      "_translation_metadata": {
+        "translated_from": "de",
+        "translated_to": "en",
+        "currency_converted_from": "EUR",
+        "currency_converted_to": "GBP",
+        "conversion_rate": 0.85,
+        "translated_at": "2025-09-19 19:13:09"
+      },
+      "shopify_mapping": {
+        "2": {
+          "product_id": 10187399029032,
+          "variant_id": 10187399029032,
+          "handle": "3-piece-premium-fragrance-collection-set-21",
+          "domain": "sn.theperfumeuk.shop",
+          "store_name": "SOLO NECESSITO (Store 2)",
+          "sku": "FRAG-0032-183239",
+          "title": "3-Piece Women's Fragrance Set: Frederic Malle Portrait of a Lady, Creed Love in White, Kilian Angels’ Share",
+          "price": 49.99,
+          "currency": "GBP"
+        },
+        "3": {
+          "product_id": 10252767559967,
+          "handle": "3-piece-premium-fragrance-collection-set-21",
+          "domain": "ae888e.myshopify.com",
+          "store_name": "SADERSTORE (Store 3)",
+          "sku": "FRAG-0032-183239"
+        }
+      }
+    },
+    {
+      "id": "33",
+      "handle": "3-piece-premium-fragrance-collection-set-22",
+      "title": "3-Piece Women's Fragrance Set: Le Labo Santal 33, Tom Ford Tobacco Vanille, Terre d’Hermès",
+      "description": "Buy 3-Piece Women's Fragrance Set: Le Labo Santal 33, Tom Ford Tobacco Vanille, Terre d’Hermès - Tom Ford and Le Labo. premium men-fragrances in this 3-for-1 offer with fast delivery in the UK. Authentic perfumes IE the best price.",
+      "description_html": "<div class=\"product-description\">\n                <h3>Premium Fragrance Collection</h3>\n                <p>An exceptional combination of three iconic fragrances at an unprecedented value. This set features premium fragrances from Tom Ford, Le Labo.</p>\n                <p class=\"mt-4\">Regular Value: £170.00<br>Special Offer: £49.99<br>Total Savings: £120.01 (71% OFF)</p>\n                <p class=\"mt-4\">Each fragrance in this set is a full-size, authentic product, carefully selected to complement each other. Perfect for those who appreciate variety in their fragrance collection or as a luxurious gift.</p>\n            </div>",
+      "sku": "FRAG-0033-183239",
+      "price": {
+        "regular": 49.99,
+        "sale": null,
+        "on_sale": false,
+        "discount_percent": 0,
+        "currency": "GBP"
+      },
+      "category": "Fragrance Sets",
+      "brands": [
+        "Tom Ford",
+        "Le Labo"
+      ],
+      "primary_brand": "Tom Ford",
+      "tags": [
+        "perfume",
+        "men-fragrances",
+        "uk",
+        "gift",
+        "authentic",
+        "premium",
+        "men",
+        "tom-ford",
+        "offers",
+        "le-labo",
+        "fragrance-set",
+        "gift-set",
+        "bestseller",
+        "collection"
+      ],
+      "images": [
+        "/productNbg/3-piece-womens-fragrance-set-le-labo-santal-33-tom-ford-tobacco-vanille-terre-dherms.png"
+      ],
+      "is_combo": true,
+      "featured": false,
+      "popularity": 0,
+      "created_at": "2025-09-19T18:32:39.541908",
+      "updated_at": "2025-09-19T18:32:39.541911",
+      "status": "active",
+      "seo": {
+        "title": "3-teiliges premium Duft collection Set 22 | premium Düfte uk",
+        "description": "Buy 3-Piece Women's Fragrance Set: Le Labo Santal 33, Tom Ford Tobacco Vanille, Terre d’Hermès - Tom Ford und Le Labo. premium men-fragrances in this 3-for-1 offer with fast delivery in the UK. Authentic perfumes IE the best price.",
+        "keywords": [
+          "perfume",
+          "men-fragrances",
+          "uk",
+          "gift",
+          "authentic",
+          "premium",
+          "men",
+          "tom-ford",
+          "offers",
+          "le-labo",
+          "fragrance-set",
+          "gift-set",
+          "bestseller",
+          "collection"
+        ]
+      },
+      "slug": "3-piece-premium-fragrance-collection-set-22",
+      "categories": [
+        "Fragrance Sets"
+      ],
+      "_translation_metadata": {
+        "translated_from": "de",
+        "translated_to": "en",
+        "currency_converted_from": "EUR",
+        "currency_converted_to": "GBP",
+        "conversion_rate": 0.85,
+        "translated_at": "2025-09-19 19:13:09"
+      },
+      "shopify_mapping": {
+        "2": {
+          "product_id": 10187399030059,
+          "variant_id": 10187399030059,
+          "handle": "3-piece-premium-fragrance-collection-set-22",
+          "domain": "sn.theperfumeuk.shop",
+          "store_name": "SOLO NECESSITO (Store 2)",
+          "sku": "FRAG-0033-183239",
+          "title": "3-Piece Women's Fragrance Set: Le Labo Santal 33, Tom Ford Tobacco Vanille, Terre d’Hermès",
+          "price": 49.99,
+          "currency": "GBP"
+        },
+        "3": {
+          "product_id": 10252767592735,
+          "handle": "3-piece-premium-fragrance-collection-set-22",
+          "domain": "ae888e.myshopify.com",
+          "store_name": "SADERSTORE (Store 3)",
+          "sku": "FRAG-0033-183239"
+        }
+      }
+    },
+    {
+      "id": "34",
+      "handle": "3-piece-premium-fragrance-collection-set-23",
+      "title": "3-Piece Men's Fragrance Set: Le Labo Santal 33, Tom Ford Tobacco Vanille, Creed Aventus",
+      "description": "Buy 3-Piece Men's Fragrance Set: Le Labo Santal 33, Tom Ford Tobacco Vanille, Creed Aventus - Creed, Tom Ford and Le Labo. premium men-fragrances in this 3-for-1 offer with fast delivery in the UK. Authentic perfumes IE the best price.",
+      "description_html": "<div class=\"product-description\">\n                <h3>Premium Fragrance Collection</h3>\n                <p>An exceptional combination of three iconic fragrances at an unprecedented value. This set features premium fragrances from Creed, Tom Ford, Le Labo.</p>\n                <p class=\"mt-4\">Regular Value: £170.00<br>Special Offer: £49.99<br>Total Savings: £120.01 (71% OFF)</p>\n                <p class=\"mt-4\">Each fragrance in this set is a full-size, authentic product, carefully selected to complement each other. Perfect for those who appreciate variety in their fragrance collection or as a luxurious gift.</p>\n            </div>",
+      "sku": "FRAG-0034-183239",
+      "price": {
+        "regular": 49.99,
+        "sale": null,
+        "on_sale": false,
+        "discount_percent": 0,
+        "currency": "GBP"
+      },
+      "category": "Fragrance Sets",
+      "brands": [
+        "Creed",
+        "Tom Ford",
+        "Le Labo"
+      ],
+      "primary_brand": "Creed",
+      "tags": [
+        "perfume",
+        "men-fragrances",
+        "uk",
+        "gift",
+        "authentic",
+        "premium",
+        "men",
+        "tom-ford",
+        "offers",
+        "le-labo",
+        "fragrance-set",
+        "Creed",
+        "gift-set",
+        "bestseller",
+        "collection"
+      ],
+      "images": [
+        "/productNbg/3-piece-mens-fragrance-set-le-labo-santal-33-tom-ford-tobacco-vanille-creed-aventus.png"
+      ],
+      "is_combo": true,
+      "featured": false,
+      "popularity": 0,
+      "created_at": "2025-09-19T18:32:39.542795",
+      "updated_at": "2025-09-19T18:32:39.542798",
+      "status": "active",
+      "seo": {
+        "title": "3-teiliges premium Duft collection Set 23 | premium Düfte uk",
+        "description": "Buy 3-Piece Men's Fragrance Set: Le Labo Santal 33, Tom Ford Tobacco Vanille, Creed Aventus - Creed, Tom Ford und Le Labo. premium men-fragrances in this 3-for-1 offer with fast delivery in the UK. Authentic perfumes IE the best price.",
+        "keywords": [
+          "perfume",
+          "men-fragrances",
+          "uk",
+          "gift",
+          "authentic",
+          "premium",
+          "men",
+          "tom-ford",
+          "offers",
+          "le-labo",
+          "fragrance-set",
+          "creed",
+          "gift-set",
+          "bestseller",
+          "collection"
+        ]
+      },
+      "slug": "3-piece-premium-fragrance-collection-set-23",
+      "categories": [
+        "Fragrance Sets"
+      ],
+      "_translation_metadata": {
+        "translated_from": "de",
+        "translated_to": "en",
+        "currency_converted_from": "EUR",
+        "currency_converted_to": "GBP",
+        "conversion_rate": 0.85,
+        "translated_at": "2025-09-19 19:13:09"
+      },
+      "shopify_mapping": {
+        "2": {
+          "product_id": 10187399031070,
+          "variant_id": 10187399031070,
+          "handle": "3-piece-premium-fragrance-collection-set-23",
+          "domain": "sn.theperfumeuk.shop",
+          "store_name": "SOLO NECESSITO (Store 2)",
+          "sku": "FRAG-0034-183239",
+          "title": "3-Piece Men's Fragrance Set: Le Labo Santal 33, Tom Ford Tobacco Vanille, Creed Aventus",
+          "price": 49.99,
+          "currency": "GBP"
+        },
+        "3": {
+          "product_id": 10252767625503,
+          "handle": "3-piece-premium-fragrance-collection-set-23",
+          "domain": "ae888e.myshopify.com",
+          "store_name": "SADERSTORE (Store 3)",
+          "sku": "FRAG-0034-183239"
+        }
+      }
+    },
+    {
+      "id": "35",
+      "handle": "3-piece-premium-fragrance-collection-set-24",
+      "title": "3-Piece Men's Fragrance Set: Parfums GB Marly Layton, Xerjoff Erba Pura, Initio Oud for Greatness",
+      "description": "Buy 3-Piece Men's Fragrance Set: Parfums GB Marly Layton, Xerjoff Erba Pura, Initio Oud for Greatness - Parfums GB Marly, Xerjoff and Initio. premium men-fragrances in this 3-for-1 offer with fast delivery in the UK. Authentic perfumes IE the best price.",
+      "description_html": "<div class=\"product-description\">\n                <h3>Premium Fragrance Collection</h3>\n                <p>An exceptional combination of three iconic fragrances at an unprecedented value. This set features premium fragrances from Parfums de Marly, Xerjoff, Initio.</p>\n                <p class=\"mt-4\">Regular Value: £170.00<br>Special Offer: £49.99<br>Total Savings: £120.01 (71% OFF)</p>\n                <p class=\"mt-4\">Each fragrance in this set is a full-size, authentic product, carefully selected to complement each other. Perfect for those who appreciate variety in their fragrance collection or as a luxurious gift.</p>\n            </div>",
+      "sku": "FRAG-0035-183239",
+      "price": {
+        "regular": 49.99,
+        "sale": null,
+        "on_sale": false,
+        "discount_percent": 0,
+        "currency": "GBP"
+      },
+      "category": "Fragrance Sets",
+      "brands": [
+        "Parfums de Marly",
+        "Xerjoff",
+        "Initio"
+      ],
+      "primary_brand": "Parfums de Marly",
+      "tags": [
+        "xerjoff",
+        "perfume",
+        "men-fragrances",
+        "uk",
+        "gift",
+        "parfums-de-marly",
+        "authentic",
+        "premium",
+        "men",
+        "initio",
+        "offers",
+        "fragrance-set",
+        "gift-set",
+        "bestseller",
+        "collection"
+      ],
+      "images": [
+        "/productNbg/3-piece-mens-fragrance-set-parfums-de-marly-layton-xerjoff-erba-pura-initio-oud-for-greatness.png"
+      ],
+      "is_combo": true,
+      "featured": false,
+      "popularity": 0,
+      "created_at": "2025-09-19T18:32:39.543689",
+      "updated_at": "2025-09-19T18:32:39.543692",
+      "status": "active",
+      "seo": {
+        "title": "3-teiliges premium Duft collection Set 24 | premium Düfte uk",
+        "description": "Buy 3-Piece Men's Fragrance Set: Parfums GB Marly Layton, Xerjoff Erba Pura, Initio Oud for Greatness - Parfums GB Marly, Xerjoff und Initio. premium men-fragrances in this 3-for-1 offer with fast delivery in the UK. Authentic perfumes IE the best price.",
+        "keywords": [
+          "xerjoff",
+          "perfume",
+          "men-fragrances",
+          "uk",
+          "gift",
+          "parfums-de-marly",
+          "authentic",
+          "premium",
+          "men",
+          "initio",
+          "offers",
+          "fragrance-set",
+          "gift-set",
+          "bestseller",
+          "collection"
+        ]
+      },
+      "slug": "3-piece-premium-fragrance-collection-set-24",
+      "categories": [
+        "Fragrance Sets"
+      ],
+      "_translation_metadata": {
+        "translated_from": "de",
+        "translated_to": "en",
+        "currency_converted_from": "EUR",
+        "currency_converted_to": "GBP",
+        "conversion_rate": 0.85,
+        "translated_at": "2025-09-19 19:13:09"
+      },
+      "shopify_mapping": {
+        "2": {
+          "product_id": 10187399032068,
+          "variant_id": 10187399032068,
+          "handle": "3-piece-premium-fragrance-collection-set-24",
+          "domain": "sn.theperfumeuk.shop",
+          "store_name": "SOLO NECESSITO (Store 2)",
+          "sku": "FRAG-0035-183239",
+          "title": "3-Piece Men's Fragrance Set: Parfums GB Marly Layton, Xerjoff Erba Pura, Initio Oud for Greatness",
+          "price": 49.99,
+          "currency": "GBP"
+        },
+        "3": {
+          "product_id": 10252767658271,
+          "handle": "3-piece-premium-fragrance-collection-set-24",
+          "domain": "ae888e.myshopify.com",
+          "store_name": "SADERSTORE (Store 3)",
+          "sku": "FRAG-0035-183239"
+        }
+      }
+    },
+    {
+      "id": "36",
+      "handle": "3-piece-premium-fragrance-collection-set-3",
+      "title": "3-Piece Men's Fragrance Set: Paco Rabanne Phantom, Armani Code, Jean Paul Gaultier Le Male",
+      "description": "Buy 3-Piece Men's Fragrance Set: Paco Rabanne Phantom, Armani Code, Jean Paul Gaultier Le Male - Paco Rabanne, Giorgio Armani and Jean Paul Gaultier. premium men-fragrances in this 3-for-1 offer with fast delivery in the UK. Authentic perfumes IE the best price.",
+      "description_html": "<div class=\"product-description\">\n                <h3>Premium Fragrance Collection</h3>\n                <p>An exceptional combination of three iconic fragrances at an unprecedented value. This set features premium fragrances from Paco Rabanne, Giorgio Armani, Jean Paul Gaultier.</p>\n                <p class=\"mt-4\">Regular Value: £170.00<br>Special Offer: £49.99<br>Total Savings: £120.01 (71% OFF)</p>\n                <p class=\"mt-4\">Each fragrance in this set is a full-size, authentic product, carefully selected to complement each other. Perfect for those who appreciate variety in their fragrance collection or as a luxurious gift.</p>\n            </div>",
+      "sku": "FRAG-0036-183239",
+      "price": {
+        "regular": 49.99,
+        "sale": null,
+        "on_sale": false,
+        "discount_percent": 0,
+        "currency": "GBP"
+      },
+      "category": "Fragrance Sets",
+      "brands": [
+        "Paco Rabanne",
+        "Giorgio Armani",
+        "Jean Paul Gaultier"
+      ],
+      "primary_brand": "Paco Rabanne",
+      "tags": [
+        "perfume",
+        "men-fragrances",
+        "uk",
+        "gift",
+        "authentic",
+        "giorgio-armani",
+        "premium",
+        "men",
+        "bestseller",
+        "offers",
+        "fragrance-set",
+        "gift-set",
+        "paco-rabanne",
+        "collection",
+        "jean-paul-gaultier"
+      ],
+      "images": [
+        "/productNbg/3-piece-mens-fragrance-set-paco-rabanne-phantom-armani-code-jean-paul-gaultier-le-male.png"
+      ],
+      "is_combo": true,
+      "featured": false,
+      "popularity": 0,
+      "created_at": "2025-09-19T18:32:39.544472",
+      "updated_at": "2025-09-19T18:32:39.544474",
+      "status": "active",
+      "seo": {
+        "title": "3-teiliges premium Duft collection Set 3 | premium Düfte uk",
+        "description": "Buy 3-Piece Men's Fragrance Set: Paco Rabanne Phantom, Armani Code, Jean Paul Gaultier Le Male - Paco Rabanne, Giorgio Armani und Jean Paul Gaultier. premium men-fragrances in this 3-for-1 offer with fast delivery in the UK. Authentic perfumes IE the best price.",
+        "keywords": [
+          "perfume",
+          "men-fragrances",
+          "uk",
+          "gift",
+          "authentic",
+          "giorgio-armani",
+          "premium",
+          "men",
+          "bestseller",
+          "offers",
+          "fragrance-set",
+          "gift-set",
+          "paco-rabanne",
+          "collection",
+          "jean-paul-gaultier"
+        ]
+      },
+      "slug": "3-piece-premium-fragrance-collection-set-3",
+      "categories": [
+        "Fragrance Sets"
+      ],
+      "_translation_metadata": {
+        "translated_from": "de",
+        "translated_to": "en",
+        "currency_converted_from": "EUR",
+        "currency_converted_to": "GBP",
+        "conversion_rate": 0.85,
+        "translated_at": "2025-09-19 19:13:09"
+      },
+      "shopify_mapping": {
+        "2": {
+          "product_id": 10187399033064,
+          "variant_id": 10187399033064,
+          "handle": "3-piece-premium-fragrance-collection-set-3",
+          "domain": "sn.theperfumeuk.shop",
+          "store_name": "SOLO NECESSITO (Store 2)",
+          "sku": "FRAG-0036-183239",
+          "title": "3-Piece Men's Fragrance Set: Paco Rabanne Phantom, Armani Code, Jean Paul Gaultier Le Male",
+          "price": 49.99,
+          "currency": "GBP"
+        },
+        "3": {
+          "product_id": 10252767691039,
+          "handle": "3-piece-premium-fragrance-collection-set-3",
+          "domain": "ae888e.myshopify.com",
+          "store_name": "SADERSTORE (Store 3)",
+          "sku": "FRAG-0036-183239"
+        }
+      }
+    },
+    {
+      "id": "37",
+      "handle": "3-piece-premium-fragrance-collection-set-4",
+      "title": "3-Piece Men's Fragrance Set: Armani Code, Bleu GB Chanel, Dior Sauvage",
+      "description": "Buy 3-Piece Men's Fragrance Set: Armani Code, Bleu GB Chanel, Dior Sauvage - Dior, Chanel and Giorgio Armani. premium men-fragrances in this 3-for-1 offer with fast delivery in the UK. Authentic perfumes IE the best price.",
+      "description_html": "<div class=\"product-description\">\n                <h3>Premium Fragrance Collection</h3>\n                <p>An exceptional combination of three iconic fragrances at an unprecedented value. This set features premium fragrances from Dior, Chanel, Giorgio Armani.</p>\n                <p class=\"mt-4\">Regular Value: £170.00<br>Special Offer: £49.99<br>Total Savings: £120.01 (71% OFF)</p>\n                <p class=\"mt-4\">Each fragrance in this set is a full-size, authentic product, carefully selected to complement each other. Perfect for those who appreciate variety in their fragrance collection or as a luxurious gift.</p>\n            </div>",
+      "sku": "FRAG-0037-183239",
+      "price": {
+        "regular": 49.99,
+        "sale": null,
+        "on_sale": false,
+        "discount_percent": 0,
+        "currency": "GBP"
+      },
+      "category": "Fragrance Sets",
+      "brands": [
+        "Dior",
+        "Chanel",
+        "Giorgio Armani"
+      ],
+      "primary_brand": "Dior",
+      "tags": [
+        "perfume",
+        "men-fragrances",
+        "uk",
+        "gift",
+        "authentic",
+        "giorgio-armani",
+        "premium",
+        "men",
+        "offers",
+        "Dior",
+        "Chanel",
+        "fragrance-set",
+        "gift-set",
+        "bestseller",
+        "collection"
+      ],
+      "images": [
+        "/productNbg/3-piece-mens-fragrance-set-armani-code-bleu-de-chanel-dior-sauvage.png"
+      ],
+      "is_combo": true,
+      "featured": false,
+      "popularity": 0,
+      "created_at": "2025-09-19T18:32:39.545199",
+      "updated_at": "2025-09-19T18:32:39.545202",
+      "status": "active",
+      "seo": {
+        "title": "3-teiliges premium Duft collection Set 4 | premium Düfte uk",
+        "description": "Buy 3-Piece Men's Fragrance Set: Armani Code, Bleu GB Chanel, Dior Sauvage - Dior, Chanel und Giorgio Armani. premium men-fragrances in this 3-for-1 offer with fast delivery in the UK. Authentic perfumes IE the best price.",
+        "keywords": [
+          "perfume",
+          "men-fragrances",
+          "uk",
+          "gift",
+          "authentic",
+          "giorgio-armani",
+          "premium",
+          "men",
+          "offers",
+          "dior",
+          "chanel",
+          "fragrance-set",
+          "gift-set",
+          "bestseller",
+          "collection"
+        ]
+      },
+      "slug": "3-piece-premium-fragrance-collection-set-4",
+      "categories": [
+        "Fragrance Sets"
+      ],
+      "_translation_metadata": {
+        "translated_from": "de",
+        "translated_to": "en",
+        "currency_converted_from": "EUR",
+        "currency_converted_to": "GBP",
+        "conversion_rate": 0.85,
+        "translated_at": "2025-09-19 19:13:09"
+      },
+      "shopify_mapping": {
+        "2": {
+          "product_id": 10187399034022,
+          "variant_id": 10187399034022,
+          "handle": "3-piece-premium-fragrance-collection-set-4",
+          "domain": "sn.theperfumeuk.shop",
+          "store_name": "SOLO NECESSITO (Store 2)",
+          "sku": "FRAG-0037-183239",
+          "title": "3-Piece Men's Fragrance Set: Armani Code, Bleu GB Chanel, Dior Sauvage",
+          "price": 49.99,
+          "currency": "GBP"
+        },
+        "3": {
+          "product_id": 10252767723807,
+          "handle": "3-piece-premium-fragrance-collection-set-4",
+          "domain": "ae888e.myshopify.com",
+          "store_name": "SADERSTORE (Store 3)",
+          "sku": "FRAG-0037-183239"
+        }
+      }
+    },
+    {
+      "id": "38",
+      "handle": "3-piece-premium-fragrance-collection-set-5",
+      "title": "3-Piece Men's Fragrance Set: Philipp Plein No Limits, Moschino Toy Boy, Moschino Toy 2",
+      "description": "Buy 3-Piece Men's Fragrance Set: Philipp Plein No Limits, Moschino Toy Boy, Moschino Toy 2 - Philipp Plein and Moschino. premium men-fragrances in this 3-for-1 offer with fast delivery in the UK. Authentic perfumes IE the best price.",
+      "description_html": "<div class=\"product-description\">\n                <h3>Premium Fragrance Collection</h3>\n                <p>An exceptional combination of three iconic fragrances at an unprecedented value. This set features premium fragrances from Philipp Plein, Moschino.</p>\n                <p class=\"mt-4\">Regular Value: £170.00<br>Special Offer: £49.99<br>Total Savings: £120.01 (71% OFF)</p>\n                <p class=\"mt-4\">Each fragrance in this set is a full-size, authentic product, carefully selected to complement each other. Perfect for those who appreciate variety in their fragrance collection or as a luxurious gift.</p>\n            </div>",
+      "sku": "FRAG-0038-183239",
+      "price": {
+        "regular": 49.99,
+        "sale": null,
+        "on_sale": false,
+        "discount_percent": 0,
+        "currency": "GBP"
+      },
+      "category": "Fragrance Sets",
+      "brands": [
+        "Philipp Plein",
+        "Moschino"
+      ],
+      "primary_brand": "Philipp Plein",
+      "tags": [
+        "perfume",
+        "men-fragrances",
+        "moschino",
+        "uk",
+        "gift",
+        "authentic",
+        "premium",
+        "men",
+        "offers",
+        "philipp-plein",
+        "fragrance-set",
+        "gift-set",
+        "bestseller",
+        "collection"
+      ],
+      "images": [
+        "/productNbg/3-piece-mens-fragrance-set-philipp-plein-no-limits-moschino-toy-boy-moschino-toy-2.png"
+      ],
+      "is_combo": true,
+      "featured": false,
+      "popularity": 0,
+      "created_at": "2025-09-19T18:32:39.545989",
+      "updated_at": "2025-09-19T18:32:39.545992",
+      "status": "active",
+      "seo": {
+        "title": "3-teiliges premium Duft collection Set 5 | premium Düfte uk",
+        "description": "Buy 3-Piece Men's Fragrance Set: Philipp Plein No Limits, Moschino Toy Boy, Moschino Toy 2 - Philipp Plein und Moschino. premium men-fragrances in this 3-for-1 offer with fast delivery in the UK. Authentic perfumes IE the best price.",
+        "keywords": [
+          "perfume",
+          "men-fragrances",
+          "moschino",
+          "uk",
+          "gift",
+          "authentic",
+          "premium",
+          "men",
+          "offers",
+          "philipp-plein",
+          "fragrance-set",
+          "gift-set",
+          "bestseller",
+          "collection"
+        ]
+      },
+      "slug": "3-piece-premium-fragrance-collection-set-5",
+      "categories": [
+        "Fragrance Sets"
+      ],
+      "_translation_metadata": {
+        "translated_from": "de",
+        "translated_to": "en",
+        "currency_converted_from": "EUR",
+        "currency_converted_to": "GBP",
+        "conversion_rate": 0.85,
+        "translated_at": "2025-09-19 19:13:09"
+      },
+      "shopify_mapping": {
+        "2": {
+          "product_id": 10187399035087,
+          "variant_id": 10187399035087,
+          "handle": "3-piece-premium-fragrance-collection-set-5",
+          "domain": "sn.theperfumeuk.shop",
+          "store_name": "SOLO NECESSITO (Store 2)",
+          "sku": "FRAG-0038-183239",
+          "title": "3-Piece Men's Fragrance Set: Philipp Plein No Limits, Moschino Toy Boy, Moschino Toy 2",
+          "price": 49.99,
+          "currency": "GBP"
+        },
+        "3": {
+          "product_id": 10252767756575,
+          "handle": "3-piece-premium-fragrance-collection-set-5",
+          "domain": "ae888e.myshopify.com",
+          "store_name": "SADERSTORE (Store 3)",
+          "sku": "FRAG-0038-183239"
+        }
+      }
+    },
+    {
+      "id": "39",
+      "handle": "3-piece-premium-fragrance-collection-set-6",
+      "title": "3-Piece Men's Fragrance Set: Versace Eros, Giorgio Armani Acqua di Giò Profondo, Versace Dylan Blue",
+      "description": "Buy 3-Piece Men's Fragrance Set: Versace Eros, Giorgio Armani Acqua di Giò Profondo, Versace Dylan Blue - Versace and Giorgio Armani. premium men-fragrances in this 3-for-1 offer with fast delivery in the UK. Authentic perfumes IE the best price.",
+      "description_html": "<div class=\"product-description\">\n                <h3>Premium Fragrance Collection</h3>\n                <p>An exceptional combination of three iconic fragrances at an unprecedented value. This set features premium fragrances from Versace, Giorgio Armani.</p>\n                <p class=\"mt-4\">Regular Value: £170.00<br>Special Offer: £49.99<br>Total Savings: £120.01 (71% OFF)</p>\n                <p class=\"mt-4\">Each fragrance in this set is a full-size, authentic product, carefully selected to complement each other. Perfect for those who appreciate variety in their fragrance collection or as a luxurious gift.</p>\n            </div>",
+      "sku": "FRAG-0039-183239",
+      "price": {
+        "regular": 49.99,
+        "sale": null,
+        "on_sale": false,
+        "discount_percent": 0,
+        "currency": "GBP"
+      },
+      "category": "Fragrance Sets",
+      "brands": [
+        "Versace",
+        "Giorgio Armani"
+      ],
+      "primary_brand": "Versace",
+      "tags": [
+        "perfume",
+        "men-fragrances",
+        "uk",
+        "gift",
+        "authentic",
+        "giorgio-armani",
+        "premium",
+        "men",
+        "bestseller",
+        "offers",
+        "fragrance-set",
+        "gift-set",
+        "versace",
+        "collection"
+      ],
+      "images": [
+        "/productNbg/3-piece-mens-fragrance-set-versace-eros-giorgio-armani-acqua-di-gi-profondo-versace-dylan-blue.png"
+      ],
+      "is_combo": true,
+      "featured": false,
+      "popularity": 0,
+      "created_at": "2025-09-19T18:32:39.546800",
+      "updated_at": "2025-09-19T18:32:39.546803",
+      "status": "active",
+      "seo": {
+        "title": "3-teiliges premium Duft collection Set 6 | premium Düfte uk",
+        "description": "Buy 3-Piece Men's Fragrance Set: Versace Eros, Giorgio Armani Acqua di Giò Profondo, Versace Dylan Blue - Versace und Giorgio Armani. premium men-fragrances in this 3-for-1 offer with fast delivery in the UK. Authentic perfumes IE the best price.",
+        "keywords": [
+          "perfume",
+          "men-fragrances",
+          "uk",
+          "gift",
+          "authentic",
+          "giorgio-armani",
+          "premium",
+          "men",
+          "bestseller",
+          "offers",
+          "fragrance-set",
+          "gift-set",
+          "versace",
+          "collection"
+        ]
+      },
+      "slug": "3-piece-premium-fragrance-collection-set-6",
+      "categories": [
+        "Fragrance Sets"
+      ],
+      "_translation_metadata": {
+        "translated_from": "de",
+        "translated_to": "en",
+        "currency_converted_from": "EUR",
+        "currency_converted_to": "GBP",
+        "conversion_rate": 0.85,
+        "translated_at": "2025-09-19 19:13:09"
+      },
+      "shopify_mapping": {
+        "2": {
+          "product_id": 10187399036035,
+          "variant_id": 10187399036035,
+          "handle": "3-piece-premium-fragrance-collection-set-6",
+          "domain": "sn.theperfumeuk.shop",
+          "store_name": "SOLO NECESSITO (Store 2)",
+          "sku": "FRAG-0039-183239",
+          "title": "3-Piece Men's Fragrance Set: Versace Eros, Giorgio Armani Acqua di Giò Profondo, Versace Dylan Blue",
+          "price": 49.99,
+          "currency": "GBP"
+        },
+        "3": {
+          "product_id": 10252767822111,
+          "handle": "3-piece-premium-fragrance-collection-set-6",
+          "domain": "ae888e.myshopify.com",
+          "store_name": "SADERSTORE (Store 3)",
+          "sku": "FRAG-0039-183239"
+        }
+      }
+    },
+    {
+      "id": "40",
+      "handle": "3-piece-premium-fragrance-collection-set-7",
+      "title": "3-Piece Men's Fragrance Set: Creed Aventus, Louis Vuitton Imagination, Bleu GB Chanel",
+      "description": "Buy 3-Piece Men's Fragrance Set: Creed Aventus, Louis Vuitton Imagination, Bleu GB Chanel - Chanel, Creed and Louis Vuitton. premium men-fragrances in this 3-for-1 offer with fast delivery in the UK. Authentic perfumes IE the best price.",
+      "description_html": "<div class=\"product-description\">\n                <h3>Premium Fragrance Collection</h3>\n                <p>An exceptional combination of three iconic fragrances at an unprecedented value. This set features premium fragrances from Chanel, Creed, Louis Vuitton.</p>\n                <p class=\"mt-4\">Regular Value: £170.00<br>Special Offer: £49.99<br>Total Savings: £120.01 (71% OFF)</p>\n                <p class=\"mt-4\">Each fragrance in this set is a full-size, authentic product, carefully selected to complement each other. Perfect for those who appreciate variety in their fragrance collection or as a luxurious gift.</p>\n            </div>",
+      "sku": "FRAG-0040-183239",
+      "price": {
+        "regular": 49.99,
+        "sale": null,
+        "on_sale": false,
+        "discount_percent": 0,
+        "currency": "GBP"
+      },
+      "category": "Fragrance Sets",
+      "brands": [
+        "Chanel",
+        "Creed",
+        "Louis Vuitton"
+      ],
+      "primary_brand": "Chanel",
+      "tags": [
+        "perfume",
+        "men-fragrances",
+        "uk",
+        "gift",
+        "authentic",
+        "premium",
+        "men",
+        "offers",
+        "Chanel",
+        "fragrance-set",
+        "Creed",
+        "gift-set",
+        "bestseller",
+        "collection",
+        "louis-vuitton"
+      ],
+      "images": [
+        "/productNbg/3-piece-mens-fragrance-set-creed-aventus-louis-vuitton-imagination-bleu-de-chanel.png"
+      ],
+      "is_combo": true,
+      "featured": false,
+      "popularity": 0,
+      "created_at": "2025-09-19T18:32:39.547783",
+      "updated_at": "2025-09-19T18:32:39.547790",
+      "status": "active",
+      "seo": {
+        "title": "3-teiliges premium Duft collection Set 7 | premium Düfte uk",
+        "description": "Buy 3-Piece Men's Fragrance Set: Creed Aventus, Louis Vuitton Imagination, Bleu GB Chanel - Chanel, Creed und Louis Vuitton. premium men-fragrances in this 3-for-1 offer with fast delivery in the UK. Authentic perfumes IE the best price.",
+        "keywords": [
+          "perfume",
+          "men-fragrances",
+          "uk",
+          "gift",
+          "authentic",
+          "premium",
+          "men",
+          "offers",
+          "chanel",
+          "fragrance-set",
+          "creed",
+          "gift-set",
+          "bestseller",
+          "collection",
+          "louis-vuitton"
+        ]
+      },
+      "slug": "3-piece-premium-fragrance-collection-set-7",
+      "categories": [
+        "Fragrance Sets"
+      ],
+      "_translation_metadata": {
+        "translated_from": "de",
+        "translated_to": "en",
+        "currency_converted_from": "EUR",
+        "currency_converted_to": "GBP",
+        "conversion_rate": 0.85,
+        "translated_at": "2025-09-19 19:13:09"
+      },
+      "shopify_mapping": {
+        "2": {
+          "product_id": 10187399037075,
+          "variant_id": 10187399037075,
+          "handle": "3-piece-premium-fragrance-collection-set-7",
+          "domain": "sn.theperfumeuk.shop",
+          "store_name": "SOLO NECESSITO (Store 2)",
+          "sku": "FRAG-0040-183239",
+          "title": "3-Piece Men's Fragrance Set: Creed Aventus, Louis Vuitton Imagination, Bleu GB Chanel",
+          "price": 49.99,
+          "currency": "GBP"
+        },
+        "3": {
+          "product_id": 10252767887647,
+          "handle": "3-piece-premium-fragrance-collection-set-7",
+          "domain": "ae888e.myshopify.com",
+          "store_name": "SADERSTORE (Store 3)",
+          "sku": "FRAG-0040-183239"
+        }
+      }
+    },
+    {
+      "id": "41",
+      "handle": "3-piece-premium-fragrance-collection-set-8",
+      "title": "3-Piece Men's Fragrance Set: Guerlain L'Homme Idéal, Armaf Club GB Nuit Royal Blue, Emporio Armani Stronger With You",
+      "description": "Buy 3-Piece Men's Fragrance Set: Guerlain L'Homme Idéal, Armaf Club GB Nuit Royal Blue, Emporio Armani Stronger With You - Giorgio Armani, Armaf and Guerlain. premium men-fragrances in this 3-for-1 offer with fast delivery in the UK. Authentic perfumes IE the best price.",
+      "description_html": "<div class=\"product-description\">\n                <h3>Premium Fragrance Collection</h3>\n                <p>An exceptional combination of three iconic fragrances at an unprecedented value. This set features premium fragrances from Giorgio Armani, Armaf, Guerlain.</p>\n                <p class=\"mt-4\">Regular Value: £170.00<br>Special Offer: £49.99<br>Total Savings: £120.01 (71% OFF)</p>\n                <p class=\"mt-4\">Each fragrance in this set is a full-size, authentic product, carefully selected to complement each other. Perfect for those who appreciate variety in their fragrance collection or as a luxurious gift.</p>\n            </div>",
+      "sku": "FRAG-0041-183239",
+      "price": {
+        "regular": 49.99,
+        "sale": null,
+        "on_sale": false,
+        "discount_percent": 0,
+        "currency": "GBP"
+      },
+      "category": "Fragrance Sets",
+      "brands": [
+        "Giorgio Armani",
+        "Armaf",
+        "Guerlain"
+      ],
+      "primary_brand": "Giorgio Armani",
+      "tags": [
+        "perfume",
+        "men-fragrances",
+        "uk",
+        "gift",
+        "authentic",
+        "emporio-armani",
+        "giorgio-armani",
+        "premium",
+        "men",
+        "offers",
+        "fragrance-set",
+        "gift-set",
+        "guerlain",
+        "bestseller",
+        "collection",
+        "armaf"
+      ],
+      "images": [
+        "/productNbg/3-piece-mens-fragrance-set-guerlain-lhomme-idal-armaf-club-de-nuit-royal-blue-emporio-armani-stronger-with-you.png"
+      ],
+      "is_combo": true,
+      "featured": false,
+      "popularity": 0,
+      "created_at": "2025-09-19T18:32:39.548774",
+      "updated_at": "2025-09-19T18:32:39.548777",
+      "status": "active",
+      "seo": {
+        "title": "3-teiliges premium Duft collection Set 8 | premium Düfte uk",
+        "description": "Buy 3-Piece Men's Fragrance Set: Guerlain L'Homme Idéal, Armaf Club GB Nuit Royal Blue, Emporio Armani Stronger With You - Giorgio Armani, Armaf und Guerlain. premium men-fragrances in this 3-for-1 offer with fast delivery in the UK. Authentic perfumes IE the best price.",
+        "keywords": [
+          "perfume",
+          "men-fragrances",
+          "uk",
+          "gift",
+          "authentic",
+          "emporio-armani",
+          "giorgio-armani",
+          "premium",
+          "men",
+          "offers",
+          "fragrance-set",
+          "gift-set",
+          "guerlain",
+          "bestseller",
+          "collection",
+          "armaf"
+        ]
+      },
+      "slug": "3-piece-premium-fragrance-collection-set-8",
+      "categories": [
+        "Fragrance Sets"
+      ],
+      "_translation_metadata": {
+        "translated_from": "de",
+        "translated_to": "en",
+        "currency_converted_from": "EUR",
+        "currency_converted_to": "GBP",
+        "conversion_rate": 0.85,
+        "translated_at": "2025-09-19 19:13:09"
+      },
+      "shopify_mapping": {
+        "2": {
+          "product_id": 10187399038013,
+          "variant_id": 10187399038013,
+          "handle": "3-piece-premium-fragrance-collection-set-8",
+          "domain": "sn.theperfumeuk.shop",
+          "store_name": "SOLO NECESSITO (Store 2)",
+          "sku": "FRAG-0041-183239",
+          "title": "3-Piece Men's Fragrance Set: Guerlain L'Homme Idéal, Armaf Club GB Nuit Royal Blue, Emporio Armani Stronger With You",
+          "price": 49.99,
+          "currency": "GBP"
+        },
+        "3": {
+          "product_id": 10252767920415,
+          "handle": "3-piece-premium-fragrance-collection-set-8",
+          "domain": "ae888e.myshopify.com",
+          "store_name": "SADERSTORE (Store 3)",
+          "sku": "FRAG-0041-183239"
+        }
+      }
+    },
+    {
+      "id": "42",
+      "handle": "3-piece-premium-fragrance-collection-set-9",
+      "title": "3-Piece Women's Fragrance Set: Mugler Angel, Thierry Mugler Alien, Thierry Mugler Alien Eau Extraordinaire",
+      "description": "Buy 3-Piece Women's Fragrance Set: Mugler Angel, Thierry Mugler Alien, Thierry Mugler Alien Eau Extraordinaire - Mugler. premium men-fragrances in this 3-for-1 offer with fast delivery in the UK. Authentic perfumes IE the best price.",
+      "description_html": "<div class=\"product-description\">\n                <h3>Premium Fragrance Collection</h3>\n                <p>An exceptional combination of three iconic fragrances at an unprecedented value. This set features premium fragrances from Mugler.</p>\n                <p class=\"mt-4\">Regular Value: £170.00<br>Special Offer: £49.99<br>Total Savings: £120.01 (71% OFF)</p>\n                <p class=\"mt-4\">Each fragrance in this set is a full-size, authentic product, carefully selected to complement each other. Perfect for those who appreciate variety in their fragrance collection or as a luxurious gift.</p>\n            </div>",
+      "sku": "FRAG-0042-183239",
+      "price": {
+        "regular": 49.99,
+        "sale": null,
+        "on_sale": false,
+        "discount_percent": 0,
+        "currency": "GBP"
+      },
+      "category": "Fragrance Sets",
+      "brands": [
+        "Mugler"
+      ],
+      "primary_brand": "Mugler",
+      "tags": [
+        "perfume",
+        "men-fragrances",
+        "uk",
+        "gift",
+        "authentic",
+        "premium",
+        "men",
+        "offers",
+        "mugler",
+        "fragrance-set",
+        "gift-set",
+        "bestseller",
+        "collection"
+      ],
+      "images": [
+        "/productNbg/3-piece-womens-fragrance-set-mugler-angel-thierry-mugler-alien-thierry-mugler-alien-eau-extraordinaire.png"
+      ],
+      "is_combo": true,
+      "featured": false,
+      "popularity": 0,
+      "created_at": "2025-09-19T18:32:39.549672",
+      "updated_at": "2025-09-19T18:32:39.549676",
+      "status": "active",
+      "seo": {
+        "title": "3-teiliges premium Duft collection Set 9 | premium Düfte uk",
+        "description": "Buy 3-Piece Women's Fragrance Set: Mugler Angel, Thierry Mugler Alien, Thierry Mugler Alien Eau Extraordinaire - Mugler. premium men-fragrances in this 3-for-1 offer with fast delivery in the UK. Authentic perfumes IE the best price.",
+        "keywords": [
+          "perfume",
+          "men-fragrances",
+          "uk",
+          "gift",
+          "authentic",
+          "premium",
+          "men",
+          "offers",
+          "mugler",
+          "fragrance-set",
+          "gift-set",
+          "bestseller",
+          "collection"
+        ]
+      },
+      "slug": "3-piece-premium-fragrance-collection-set-9",
+      "categories": [
+        "Fragrance Sets"
+      ],
+      "_translation_metadata": {
+        "translated_from": "de",
+        "translated_to": "en",
+        "currency_converted_from": "EUR",
+        "currency_converted_to": "GBP",
+        "conversion_rate": 0.85,
+        "translated_at": "2025-09-19 19:13:09"
+      },
+      "shopify_mapping": {
+        "2": {
+          "product_id": 10187399039037,
+          "variant_id": 10187399039037,
+          "handle": "3-piece-premium-fragrance-collection-set-9",
+          "domain": "sn.theperfumeuk.shop",
+          "store_name": "SOLO NECESSITO (Store 2)",
+          "sku": "FRAG-0042-183239",
+          "title": "3-Piece Women's Fragrance Set: Mugler Angel, Thierry Mugler Alien, Thierry Mugler Alien Eau Extraordinaire",
+          "price": 49.99,
+          "currency": "GBP"
+        },
+        "3": {
+          "product_id": 10252767953183,
+          "handle": "3-piece-premium-fragrance-collection-set-9",
+          "domain": "ae888e.myshopify.com",
+          "store_name": "SADERSTORE (Store 3)",
+          "sku": "FRAG-0042-183239"
+        }
+      }
+    },
+    {
+      "id": "43",
+      "handle": "3-piece-premium-fragrance-collection-set-25",
+      "title": "3-Piece Fragrance Set: Good Girl Carolina Herrera, Nº5 Chanel & Fame Paco Rabanne",
+      "description": "Buy 3-Piece Fragrance Set: Good Girl Carolina Herrera, Nº5 Chanel & Fame Paco Rabanne - Chanel, Paco Rabanne and Carolina Herrera. premium men-fragrances in this 3-for-1 offer with fast delivery in the UK. Authentic perfumes IE the best price.",
+      "description_html": "<div class=\"product-description\">\n                <h3>Premium Fragrance Collection</h3>\n                <p>An exceptional combination of three iconic fragrances at an unprecedented value. This set features premium fragrances from Chanel, Paco Rabanne, Carolina Herrera.</p>\n                <p class=\"mt-4\">Regular Value: £170.00<br>Special Offer: £49.99<br>Total Savings: £120.01 (71% OFF)</p>\n                <p class=\"mt-4\">Each fragrance in this set is a full-size, authentic product, carefully selected to complement each other. Perfect for those who appreciate variety in their fragrance collection or as a luxurious gift.</p>\n            </div>",
+      "sku": "FRAG-0043-183239",
+      "price": {
+        "regular": 49.99,
+        "sale": null,
+        "on_sale": false,
+        "discount_percent": 0,
+        "currency": "GBP"
+      },
+      "category": "Fragrance Sets",
+      "brands": [
+        "Chanel",
+        "Paco Rabanne",
+        "Carolina Herrera"
+      ],
+      "primary_brand": "Chanel",
+      "tags": [
+        "perfume",
+        "men-fragrances",
+        "uk",
+        "gift",
+        "authentic",
+        "carolina-herrera",
+        "premium",
+        "men",
+        "bestseller",
+        "offers",
+        "Chanel",
+        "fragrance-set",
+        "gift-set",
+        "paco-rabanne",
+        "collection"
+      ],
+      "images": [
+        "/productNbg/3-piece-fragrance-set-good-girl-carolina-herrera-n5-chanel-fame-paco-rabanne.png"
+      ],
+      "is_combo": true,
+      "featured": false,
+      "popularity": 0,
+      "created_at": "2025-09-19T18:32:39.550516",
+      "updated_at": "2025-09-19T18:32:39.550519",
+      "status": "active",
+      "seo": {
+        "title": "3-Piece Fragrance Set: Good Girl Carolina Herrera, Nº5 Chanel & Fame Paco Rabanne | premium Fragrances UK",
+        "description": "Buy 3-Piece Fragrance Set: Good Girl Carolina Herrera, Nº5 Chanel & Fame Paco Rabanne - Chanel, Paco Rabanne und Carolina Herrera. premium men-fragrances in this 3-for-1 offer with fast delivery in the UK. Authentic perfumes IE the best price.",
+        "keywords": [
+          "perfume",
+          "men-fragrances",
+          "uk",
+          "gift",
+          "authentic",
+          "carolina-herrera",
+          "premium",
+          "men",
+          "bestseller",
+          "offers",
+          "chanel",
+          "fragrance-set",
+          "gift-set",
+          "paco-rabanne",
+          "collection"
+        ]
+      },
+      "slug": "3-piece-premium-fragrance-collection-set-25",
+      "categories": [
+        "Fragrance Sets"
+      ],
+      "_translation_metadata": {
+        "translated_from": "de",
+        "translated_to": "en",
+        "currency_converted_from": "EUR",
+        "currency_converted_to": "GBP",
+        "conversion_rate": 0.85,
+        "translated_at": "2025-09-19 19:13:09"
+      },
+      "shopify_mapping": {
+        "2": {
+          "product_id": 10187399040003,
+          "variant_id": 10187399040003,
+          "handle": "3-piece-premium-fragrance-collection-set-25",
+          "domain": "sn.theperfumeuk.shop",
+          "store_name": "SOLO NECESSITO (Store 2)",
+          "sku": "FRAG-0043-183239",
+          "title": "3-Piece Fragrance Set: Good Girl Carolina Herrera, Nº5 Chanel & Fame Paco Rabanne",
+          "price": 49.99,
+          "currency": "GBP"
+        },
+        "3": {
+          "product_id": 10252767985951,
+          "handle": "3-piece-premium-fragrance-collection-set-25",
+          "domain": "ae888e.myshopify.com",
+          "store_name": "SADERSTORE (Store 3)",
+          "sku": "FRAG-0043-183239"
+        }
+      }
+    },
+    {
+      "id": "44",
+      "handle": "3-piece-premium-fragrance-collection-set-26",
+      "title": "3-Piece premium Fragrance Collection",
+      "description": "Buy 3-teiliges premium Fragrance collection - Yves Saint Laurent. premium Düfte with schneller Lieferung in uk.",
+      "description_html": "<div class=\"product-description\">\n                <h3>Premium Fragrance Collection</h3>\n                <p>An exceptional combination of three iconic fragrances at an unprecedented value. This set features premium fragrances from Yves Saint Laurent.</p>\n                <p class=\"mt-4\">Regular Value: £170.00<br>Special Offer: £49.99<br>Total Savings: £120.01 (71% OFF)</p>\n                <p class=\"mt-4\">Each fragrance in this set is a full-size, authentic product, carefully selected to complement each other. Perfect for those who appreciate variety in their fragrance collection or as a luxurious gift.</p>\n            </div>",
+      "sku": "FRAG-0044-183239",
+      "price": {
+        "regular": 49.99,
+        "sale": null,
+        "on_sale": false,
+        "discount_percent": 0,
+        "currency": "GBP"
+      },
+      "category": "Fragrance Sets",
+      "brands": [
+        "Yves Saint Laurent"
+      ],
+      "primary_brand": "Yves Saint Laurent",
+      "tags": [
+        "perfume",
+        "men-fragrances",
+        "uk",
+        "gift",
+        "authentic",
+        "premium",
+        "men",
+        "bestseller",
+        "offers",
+        "fragrance-set",
+        "gift-set",
+        "yves-saint-laurent",
+        "collection"
+      ],
+      "images": [
+        "/productNbg/3-piece-fragrance-set-1-million-parfum-sauvage-dior-invictus-paco-rabanne.png"
+      ],
+      "is_combo": true,
+      "featured": false,
+      "popularity": 0,
+      "created_at": "2025-09-19T18:32:39.551116",
+      "updated_at": "2025-09-19T18:32:39.551119",
+      "status": "active",
+      "seo": {
+        "title": "3-teiliges premium Duft collection | premium Düfte uk",
+        "description": "Buy 3-teiliges premium Duft collection - Yves Saint Laurent. premium Düfte mit schneller Lieferung in uk.",
+        "keywords": [
+          "perfume",
+          "men-fragrances",
+          "uk",
+          "gift",
+          "authentic",
+          "premium",
+          "men",
+          "bestseller",
+          "offers",
+          "fragrance-set",
+          "gift-set",
+          "yves-saint-laurent",
+          "collection"
+        ]
+      },
+      "slug": "3-piece-premium-fragrance-collection-set-26",
+      "categories": [
+        "Fragrance Sets"
+      ],
+      "_translation_metadata": {
+        "translated_from": "de",
+        "translated_to": "en",
+        "currency_converted_from": "EUR",
+        "currency_converted_to": "GBP",
+        "conversion_rate": 0.85,
+        "translated_at": "2025-09-19 19:13:09"
+      },
+      "shopify_mapping": {
+        "2": {
+          "product_id": 10187399041076,
+          "variant_id": 10187399041076,
+          "handle": "3-piece-premium-fragrance-collection-set-26",
+          "domain": "sn.theperfumeuk.shop",
+          "store_name": "SOLO NECESSITO (Store 2)",
+          "sku": "FRAG-0044-183239",
+          "title": "3-Piece premium Fragrance Collection",
+          "price": 49.99,
+          "currency": "GBP"
+        },
+        "3": {
+          "product_id": 10252768018719,
+          "handle": "3-piece-premium-fragrance-collection-set-26",
+          "domain": "ae888e.myshopify.com",
+          "store_name": "SADERSTORE (Store 3)",
+          "sku": "FRAG-0044-183239"
+        }
+      }
+    },
+    {
+      "id": "45",
+      "handle": "3-piece-premium-fragrance-collection-set-27",
+      "title": "3-Piece premium Fragrance Collection - Special Edition",
+      "description": "Buy 3-teiliges premium Fragrance collection - Sonderausgabe - Chanel, Yves Saint Laurent, Giorgio Armani. premium Düfte with schneller Lieferung in uk.",
+      "description_html": "<div class=\"product-description\">\n                <h3>Premium Fragrance Collection</h3>\n                <p>An exceptional combination of three iconic fragrances at an unprecedented value. This set features premium fragrances from Chanel, Yves Saint Laurent, Giorgio Armani.</p>\n                <p class=\"mt-4\">Regular Value: £170.00<br>Special Offer: £49.99<br>Total Savings: £120.01 (71% OFF)</p>\n                <p class=\"mt-4\">Each fragrance in this set is a full-size, authentic product, carefully selected to complement each other. Perfect for those who appreciate variety in their fragrance collection or as a luxurious gift.</p>\n            </div>",
+      "sku": "FRAG-0045-183239",
+      "price": {
+        "regular": 49.99,
+        "sale": null,
+        "on_sale": false,
+        "discount_percent": 0,
+        "currency": "GBP"
+      },
+      "category": "Fragrance Sets",
+      "brands": [
+        "Chanel",
+        "Yves Saint Laurent",
+        "Giorgio Armani"
+      ],
+      "primary_brand": "Chanel",
+      "tags": [
+        "perfume",
+        "men-fragrances",
+        "uk",
+        "gift",
+        "authentic",
+        "giorgio-armani",
+        "premium",
+        "men",
+        "bestseller",
+        "offers",
+        "Chanel",
+        "fragrance-set",
+        "gift-set",
+        "yves-saint-laurent",
+        "collection"
+      ],
+      "images": [
+        "/productNbg/3-piece-fragrance-set-1-million-parfum-sauvage-dior-invictus-paco-rabanne.png"
+      ],
+      "is_combo": true,
+      "featured": false,
+      "popularity": 0,
+      "created_at": "2025-09-19T18:32:39.551760",
+      "updated_at": "2025-09-19T18:32:39.551762",
+      "status": "active",
+      "seo": {
+        "title": "3-teiliges premium Duft collection - Sonderausgabe | premium Düfte uk",
+        "description": "Buy 3-teiliges premium Duft collection - Sonderausgabe - Chanel, Yves Saint Laurent, Giorgio Armani. premium Düfte mit schneller Lieferung in uk.",
+        "keywords": [
+          "perfume",
+          "men-fragrances",
+          "uk",
+          "gift",
+          "authentic",
+          "giorgio-armani",
+          "premium",
+          "men",
+          "bestseller",
+          "offers",
+          "chanel",
+          "fragrance-set",
+          "gift-set",
+          "yves-saint-laurent",
+          "collection"
+        ]
+      },
+      "slug": "3-piece-premium-fragrance-collection-set-27",
+      "categories": [
+        "Fragrance Sets"
+      ],
+      "_translation_metadata": {
+        "translated_from": "de",
+        "translated_to": "en",
+        "currency_converted_from": "EUR",
+        "currency_converted_to": "GBP",
+        "conversion_rate": 0.85,
+        "translated_at": "2025-09-19 19:13:09"
+      },
+      "shopify_mapping": {
+        "2": {
+          "product_id": 10187399042024,
+          "variant_id": 10187399042024,
+          "handle": "3-piece-premium-fragrance-collection-set-27",
+          "domain": "sn.theperfumeuk.shop",
+          "store_name": "SOLO NECESSITO (Store 2)",
+          "sku": "FRAG-0045-183239",
+          "title": "3-Piece premium Fragrance Collection - Special Edition",
+          "price": 49.99,
+          "currency": "GBP"
+        },
+        "3": {
+          "product_id": 10252768051487,
+          "handle": "3-piece-premium-fragrance-collection-set-27",
+          "domain": "ae888e.myshopify.com",
+          "store_name": "SADERSTORE (Store 3)",
+          "sku": "FRAG-0045-183239"
+        }
+      }
+    },
+    {
+      "id": "46",
+      "handle": "3-piece-premium-fragrance-collection-set-43",
+      "title": "3-Piece Fragrance Set: Good Girl, La Vie Est Belle & 212 VIP Rose",
+      "description": "Buy 3-Piece Fragrance Set: Good Girl, La Vie Est Belle & 212 VIP Rose - Lancôme and Carolina Herrera. premium men-fragrances in this 3-for-1 offer with fast delivery in the UK. Authentic perfumes IE the best price.",
+      "description_html": "<div class=\"product-description\">\n                <h3>Premium Fragrance Collection</h3>\n                <p>An exceptional combination of three iconic fragrances at an unprecedented value. This set features premium fragrances from Lancôme, Carolina Herrera.</p>\n                <p class=\"mt-4\">Regular Value: £170.00<br>Special Offer: £49.99<br>Total Savings: £120.01 (71% OFF)</p>\n                <p class=\"mt-4\">Each fragrance in this set is a full-size, authentic product, carefully selected to complement each other. Perfect for those who appreciate variety in their fragrance collection or as a luxurious gift.</p>\n            </div>",
+      "sku": "FRAG-0046-183239",
+      "price": {
+        "regular": 49.99,
+        "sale": null,
+        "on_sale": false,
+        "discount_percent": 0,
+        "currency": "GBP"
+      },
+      "category": "Fragrance Sets",
+      "brands": [
+        "Lancôme",
+        "Carolina Herrera"
+      ],
+      "primary_brand": "Lancôme",
+      "tags": [
+        "perfume",
+        "men-fragrances",
+        "uk",
+        "gift",
+        "authentic",
+        "carolina-herrera",
+        "premium",
+        "men",
+        "lancôme",
+        "offers",
+        "fragrance-set",
+        "gift-set",
+        "bestseller",
+        "collection"
+      ],
+      "images": [
+        "/productNbg/3-piece-fragrance-set-good-girl-la-vie-est-belle-212-vip-rose.png"
+      ],
+      "is_combo": true,
+      "featured": false,
+      "popularity": 0,
+      "created_at": "2025-09-19T18:32:39.552611",
+      "updated_at": "2025-09-19T18:32:39.552615",
+      "status": "active",
+      "seo": {
+        "title": "3-Piece Fragrance Set: Good Girl, La Vie Est Belle & 212 VIP Rose | premium Fragrances UK",
+        "description": "Buy 3-Piece Fragrance Set: Good Girl, La Vie Est Belle & 212 VIP Rose - Lancôme und Carolina Herrera. premium men-fragrances in this 3-for-1 offer with fast delivery in the UK. Authentic perfumes IE the best price.",
+        "keywords": [
+          "perfume",
+          "men-fragrances",
+          "uk",
+          "gift",
+          "authentic",
+          "carolina-herrera",
+          "premium",
+          "men",
+          "lancôme",
+          "offers",
+          "fragrance-set",
+          "gift-set",
+          "bestseller",
+          "collection"
+        ]
+      },
+      "slug": "3-piece-premium-fragrance-collection-set-43",
+      "categories": [
+        "Fragrance Sets"
+      ],
+      "_translation_metadata": {
+        "translated_from": "de",
+        "translated_to": "en",
+        "currency_converted_from": "EUR",
+        "currency_converted_to": "GBP",
+        "conversion_rate": 0.85,
+        "translated_at": "2025-09-19 19:13:09"
+      },
+      "shopify_mapping": {
+        "2": {
+          "product_id": 10187399043051,
+          "variant_id": 10187399043051,
+          "handle": "3-piece-premium-fragrance-collection-set-43",
+          "domain": "sn.theperfumeuk.shop",
+          "store_name": "SOLO NECESSITO (Store 2)",
+          "sku": "FRAG-0046-183239",
+          "title": "3-Piece Fragrance Set: Good Girl, La Vie Est Belle & 212 VIP Rose",
+          "price": 49.99,
+          "currency": "GBP"
+        },
+        "3": {
+          "product_id": 10252768117023,
+          "handle": "3-piece-premium-fragrance-collection-set-44",
+          "domain": "ae888e.myshopify.com",
+          "store_name": "SADERSTORE (Store 3)",
+          "sku": "FRAG-0046-183239"
+        }
+      }
+    },
+    {
+      "id": "47",
+      "handle": "3-piece-premium-fragrance-collection-set-44",
+      "title": "3-Piece Fragrance Set: Invictus Legend, Invictus & Invictus Victory Elixir",
+      "description": "Buy 3-Piece Fragrance Set: Invictus Legend, Invictus & Invictus Victory Elixir - Paco Rabanne. premium men-fragrances in this 3-for-1 offer with fast delivery in the UK. Authentic perfumes IE the best price.",
+      "description_html": "<div class=\"product-description\">\n                <h3>Premium Fragrance Collection</h3>\n                <p>An exceptional combination of three iconic fragrances at an unprecedented value. This set features premium fragrances from Paco Rabanne.</p>\n                <p class=\"mt-4\">Regular Value: £170.00<br>Special Offer: £49.99<br>Total Savings: £120.01 (71% OFF)</p>\n                <p class=\"mt-4\">Each fragrance in this set is a full-size, authentic product, carefully selected to complement each other. Perfect for those who appreciate variety in their fragrance collection or as a luxurious gift.</p>\n            </div>",
+      "sku": "FRAG-0047-183239",
+      "price": {
+        "regular": 49.99,
+        "sale": null,
+        "on_sale": false,
+        "discount_percent": 0,
+        "currency": "GBP"
+      },
+      "category": "Fragrance Sets",
+      "brands": [
+        "Paco Rabanne"
+      ],
+      "primary_brand": "Paco Rabanne",
+      "tags": [
+        "perfume",
+        "men-fragrances",
+        "uk",
+        "gift",
+        "authentic",
+        "premium",
+        "men",
+        "bestseller",
+        "offers",
+        "fragrance-set",
+        "gift-set",
+        "paco-rabanne",
+        "collection"
+      ],
+      "images": [
+        "/productNbg/3-piece-fragrance-set-invictus-legend-invictus-invictus-victory-elixir.png"
+      ],
+      "is_combo": true,
+      "featured": false,
+      "popularity": 0,
+      "created_at": "2025-09-19T18:32:39.553354",
+      "updated_at": "2025-09-19T18:32:39.553356",
+      "status": "active",
+      "seo": {
+        "title": "3-Piece Fragrance Set: Invictus Legend, Invictus & Invictus Victory Elixir | premium Fragrances UK",
+        "description": "Buy 3-Piece Fragrance Set: Invictus Legend, Invictus & Invictus Victory Elixir - Paco Rabanne. premium men-fragrances in this 3-for-1 offer with fast delivery in the UK. Authentic perfumes IE the best price.",
+        "keywords": [
+          "perfume",
+          "men-fragrances",
+          "uk",
+          "gift",
+          "authentic",
+          "premium",
+          "men",
+          "bestseller",
+          "offers",
+          "fragrance-set",
+          "gift-set",
+          "paco-rabanne",
+          "collection"
+        ]
+      },
+      "slug": "3-piece-premium-fragrance-collection-set-44",
+      "categories": [
+        "Fragrance Sets"
+      ],
+      "_translation_metadata": {
+        "translated_from": "de",
+        "translated_to": "en",
+        "currency_converted_from": "EUR",
+        "currency_converted_to": "GBP",
+        "conversion_rate": 0.85,
+        "translated_at": "2025-09-19 19:13:09"
+      },
+      "shopify_mapping": {
+        "2": {
+          "product_id": 10187399044027,
+          "variant_id": 10187399044027,
+          "handle": "3-piece-premium-fragrance-collection-set-44",
+          "domain": "sn.theperfumeuk.shop",
+          "store_name": "SOLO NECESSITO (Store 2)",
+          "sku": "FRAG-0047-183239",
+          "title": "3-Piece Fragrance Set: Invictus Legend, Invictus & Invictus Victory Elixir",
+          "price": 49.99,
+          "currency": "GBP"
+        },
+        "3": {
+          "product_id": 10252768149791,
+          "handle": "3-piece-premium-fragrance-collection-set-45",
+          "domain": "ae888e.myshopify.com",
+          "store_name": "SADERSTORE (Store 3)",
+          "sku": "FRAG-0047-183239"
+        }
+      }
+    }
+  ],
+  "_metadata": {
+    "original_file": "store_perfum\\data\\unified_products.json",
+    "translation_info": {
+      "source_language": "de",
+      "target_language": "en",
+      "source_currency": "EUR",
+      "target_currency": "GBP",
+      "conversion_rate": 0.85,
+      "total_products": 44,
+      "translated_at": "2025-09-19 19:13:09"
+    }
+  }
+}

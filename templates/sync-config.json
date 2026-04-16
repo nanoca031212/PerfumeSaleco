@@ -1,0 +1,41 @@
+{
+  "mapping_config": {
+    "version": "1.0.0",
+    "last_updated": "2025-09-21T06:33:57.486Z",
+    "total_products": 44,
+    "mapping_file": "data/shopify_variant_mapping_complete.json",
+    "confidence_threshold": 0.7,
+    "auto_sync_enabled": false,
+    "backup_enabled": true,
+    "monitoring_enabled": false
+  },
+  "api_endpoints": {
+    "shopify_base_url": "https://your-store.myshopify.com",
+    "api_version": "2023-10",
+    "required_permissions": [
+      "read_products",
+      "write_products",
+      "read_inventory",
+      "write_inventory"
+    ]
+  },
+  "sync_settings": {
+    "batch_size": 10,
+    "rate_limit_delay_ms": 500,
+    "retry_attempts": 3,
+    "timeout_ms": 30000,
+    "fields_to_sync": [
+      "title",
+      "price",
+      "inventory_quantity",
+      "status",
+      "tags"
+    ]
+  },
+  "error_handling": {
+    "log_errors": true,
+    "email_notifications": false,
+    "slack_notifications": false,
+    "fallback_strategy": "skip_and_log"
+  }
+}

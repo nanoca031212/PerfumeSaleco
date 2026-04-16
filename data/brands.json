@@ -1,0 +1,51 @@
+{
+  "brands": [
+    {
+      "name": "Giorgio Armani",
+      "slug": "giorgioarmani"
+    },
+    {
+      "name": "Boss",
+      "slug": "boss"
+    },
+    {
+      "name": "Paco Rabanne",
+      "slug": "pacorabanne"
+    },
+    {
+      "name": "Yves Saint Laurent",
+      "slug": "yvessaintlaurent"
+    },
+    {
+      "name": "Versace",
+      "slug": "versace"
+    },
+    {
+      "name": "Creed",
+      "slug": "creed"
+    },
+    {
+      "name": "Dior",
+      "slug": "dior"
+    },
+    {
+      "name": "Prada",
+      "slug": "prada"
+    },
+    {
+      "name": "Bvlgari",
+      "slug": "bvlgari"
+    },
+    {
+      "name": "Dolce & Gabbana",
+      "slug": "dolcegabbana"
+    },
+    {
+      "name": "Chanel",
+      "slug": "chanel"
+    }
+  ],
+  "metadata": {
+    "total": 11
+  }
+}

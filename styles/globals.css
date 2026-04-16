@@ -1,0 +1,240 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* CSS Reset e Mobile-First Base */
+@layer base {
+  * {
+    box-sizing: border-box;
+  }
+  
+  html {
+    scroll-behavior: smooth;
+    -webkit-text-size-adjust: 100%;
+    font-feature-settings: "cv03", "cv04", "cv11";
+  }
+  
+  body {
+    font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+    line-height: 1.6;
+    color: theme('colors.gray.900');
+    background-color: theme('colors.white');
+    overflow-x: hidden;
+  }
+  
+  html {
+    overflow-x: hidden;
+  }
+  
+  /* Mobile-first typography */
+  h1, h2, h3, h4, h5, h6 {
+    font-weight: 600;
+    line-height: 1.2;
+    letter-spacing: -0.02em;
+  }
+  
+  h1 { @apply text-2xl sm:text-3xl lg:text-4xl; }
+  h2 { @apply text-xl sm:text-2xl lg:text-3xl; }
+  h3 { @apply text-lg sm:text-xl lg:text-2xl; }
+  h4 { @apply text-base sm:text-lg; }
+  
+  /* Focus states for accessibility */
+  button:focus-visible,
+  a:focus-visible,
+  input:focus-visible,
+  textarea:focus-visible,
+  select:focus-visible {
+    @apply outline-none ring-2 ring-primary-500 ring-offset-2;
+  }
+  
+  /* Remove default button styles */
+  button {
+    background: none;
+    border: none;
+    padding: 0;
+    font: inherit;
+    cursor: pointer;
+  }
+}
+
+/* Component layer */
+@layer components {
+  /* Button base styles */
+  .btn {
+    @apply inline-flex items-center justify-center touch-target;
+    @apply px-4 py-2 text-sm font-medium rounded-lg;
+    @apply transition-all duration-200 ease-in-out;
+    @apply focus:outline-none focus:ring-2 focus:ring-offset-2;
+    @apply disabled:opacity-50 disabled:cursor-not-allowed;
+  }
+  
+  .btn-primary {
+    @apply btn bg-primary-600 text-white hover:bg-primary-700;
+    @apply focus:ring-primary-500 shadow-sm hover:shadow-md;
+  }
+  
+  .btn-secondary {
+    @apply btn bg-gray-100 text-gray-900 hover:bg-gray-200;
+    @apply focus:ring-gray-500 border border-gray-300;
+  }
+  
+  .btn-outline {
+    @apply btn border-2 border-primary-600 text-primary-600;
+    @apply hover:bg-primary-50 focus:ring-primary-500;
+  }
+  
+  /* Card styles */
+  .card {
+    @apply bg-white rounded-xl shadow-soft overflow-hidden;
+    @apply border border-gray-100 hover:shadow-medium;
+    @apply transition-shadow duration-300;
+  }
+  
+  /* Input styles */
+  .input {
+    @apply w-full px-3 py-2 min-h-[44px];
+    @apply border border-gray-300 rounded-lg;
+    @apply focus:ring-2 focus:ring-primary-500 focus:border-primary-500;
+    @apply transition-colors duration-200;
+    @apply placeholder:text-gray-400;
+  }
+  
+  /* Product grid responsive */
+  .product-grid {
+    @apply grid gap-4;
+    @apply grid-cols-2 sm:grid-cols-3 lg:grid-cols-4 xl:grid-cols-5;
+  }
+  
+  .product-grid-large {
+    @apply grid gap-6;
+    @apply grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4;
+  }
+  
+  /* Safe areas for mobile */
+  .safe-area-padding {
+    @apply px-4;
+  }
+  
+  /* Utility classes */
+  .line-clamp-2 {
+    display: -webkit-box;
+    -webkit-line-clamp: 2;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+  }
+  
+  /* Price display */
+  .price {
+    @apply font-semibold text-gray-900;
+  }
+  
+  .price-sale {
+    @apply text-red-600 font-bold;
+  }
+  
+  .price-original {
+    @apply text-gray-500 line-through text-sm;
+  }
+  
+  /* Navigation */
+  .nav-link {
+    @apply text-gray-700 hover:text-primary-600 transition-colors;
+    @apply font-medium min-h-[44px] flex items-center;
+  }
+  
+  .nav-link.active {
+    @apply text-primary-600;
+  }
+}
+
+/* Utilities layer */
+@layer utilities {
+  /* Mobile-specific utilities */
+  .text-mobile {
+    @apply text-base leading-relaxed;
+  }
+  
+  .heading-mobile {
+    @apply text-xl font-semibold leading-tight;
+  }
+  
+  /* Loading states */
+  .loading {
+    @apply opacity-50 pointer-events-none;
+  }
+  
+  .skeleton {
+    @apply bg-gray-200 animate-pulse rounded;
+  }
+  
+  /* Animations */
+  .fade-in {
+    @apply animate-fade-in;
+  }
+  
+  .slide-up {
+    @apply animate-slide-up;
+  }
+  
+  /* Scrollbar styling */
+  .scrollbar-none {
+    -ms-overflow-style: none;
+    scrollbar-width: none;
+  }
+  
+  .scrollbar-none::-webkit-scrollbar {
+    display: none;
+  }
+  
+  /* Image optimizations */
+  .img-responsive {
+    @apply w-full h-auto object-cover;
+  }
+  
+  .img-product {
+    @apply aspect-square object-cover rounded-lg;
+  }
+  
+  /* Container responsive */
+  .container-responsive {
+    @apply max-w-7xl mx-auto px-4 sm:px-6 lg:px-8;
+  }
+}
+
+/* Hide scrollbar for navigation tabs only */
+.scrollbar-none {
+  -ms-overflow-style: none;
+  scrollbar-width: none;
+}
+
+.scrollbar-none::-webkit-scrollbar {
+  display: none;
+}
+
+/* Custom scrollbar for webkit browsers (main content) */
+::-webkit-scrollbar {
+  width: 8px;
+}
+
+::-webkit-scrollbar-track {
+  @apply bg-gray-100;
+}
+
+::-webkit-scrollbar-thumb {
+  @apply bg-gray-300 rounded-full;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  @apply bg-gray-400;
+}
+
+/* Print styles */
+@media print {
+  .no-print {
+    display: none !important;
+  }
+  
+  body {
+    @apply text-black bg-white;
+  }
+}
