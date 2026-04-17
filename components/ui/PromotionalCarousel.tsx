@@ -10,7 +10,7 @@ export default function PromotionalCarousel({ className = '' }: PromotionalCarou
 
   const promotions = [
     {
-      text: '75% OFF',
+      text: '70% OFF',
       subtext: 'WITH QUIZ DISCOUNT',
         href: '/quiz-discount'
     },

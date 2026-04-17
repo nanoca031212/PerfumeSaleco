@@ -39,7 +39,7 @@ export default function HeaderTPS({
       {/* Promotional Banner */}
       {!hidePromoBanner && (
         <div className="bg-tps-red text-white text-center p-5 text-[15px] font-normal">
-          Take the perfume quiz and get up to £120 off*
+          luxury fragrances. Up to 70% off. Limited stock
         </div>
       )}
 

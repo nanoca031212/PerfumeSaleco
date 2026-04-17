@@ -182,7 +182,7 @@ export default function ProductPage({ product, relatedProducts }: ProductPagePro
                 <div className="flex items-center gap-2 whitespace-nowrap">
                   <span>Product code: {product.sku}</span>
                   <span>|</span>
-                  <span>RRP £170.00</span>
+                  <span>RRP £219.98</span>
                   <span>|</span>
                 </div>
                 <span className="text-[#666666]">£ {product.price.regular} PER 100ml</span>
@@ -191,7 +191,7 @@ export default function ProductPage({ product, relatedProducts }: ProductPagePro
 
             {/* Discount Banner */}
             <div className="border border-black w-full text-center py-2 mb-6">
-              <span className="font-light text-black">UP TO 75% OFF APPLIED AT CHECKOUT</span>
+              <span className="font-light text-black">UP TO 70% OFF APPLIED AT CHECKOUT</span>
             </div>
 
             {/* Price and Size Selection */}
@@ -199,7 +199,7 @@ export default function ProductPage({ product, relatedProducts }: ProductPagePro
               <div className="flex items-center gap-2 mb-4">
                 <span className="text-[20px] text-gray-500">50ML - </span>
                 <span className="text-[25px] font-medium text-[#e0001b]">£{product.price.regular}</span>
-                <span className="text-[15px] text-black">Save £{(170 - parseFloat(product.price.regular.toString())).toFixed(2)}</span>
+                <span className="text-[15px] text-black">Save £{(219.98 - parseFloat(product.price.regular.toString())).toFixed(2)}</span>
                 <div className="flex ml-2">
                   {[1, 2, 3, 4, 4.5].map((star, idx) => (
                     <Star 
@@ -257,7 +257,7 @@ export default function ProductPage({ product, relatedProducts }: ProductPagePro
                 <div className="font-bold mb-4 text-lg">Product Description</div>
                 <div className="space-y-4 text-sm text-gray-700">
                   <p>
-                    Experience luxury at an exceptional value with our exclusive Multi-Brand Promotion. These carefully curated fragrance sets, originally priced at <span className="font-bold text-black line-through">£170.00</span>, are now available for just <span className="font-bold text-black">£{product.price.regular}</span>, offering you a remarkable savings.
+                    Experience luxury at an exceptional value with our exclusive Multi-Brand Promotion. These carefully curated fragrance sets, originally priced at <span className="font-bold text-black line-through">£219.98</span>, are now available for just <span className="font-bold text-black">£{product.price.regular}</span>, offering you a remarkable savings.
                   </p>
                   
                   <p>
